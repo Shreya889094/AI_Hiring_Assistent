@@ -1,0 +1,66 @@
+{
+  "features": [
+    "experience_years",
+    "num_skills",
+    "certifications",
+    "projects_count",
+    "gpa",
+    "skill_score",
+    "education_score",
+    "certification_score",
+    "project_score",
+    "communication_score",
+    "problem_solving_score",
+    "education_level",
+    "exp_bucket",
+    "overall_score",
+    "exp_skill_interaction",
+    "cert_per_year",
+    "projects_per_year",
+    "gpa_normalized",
+    "ats_score"
+  ],
+  "results": {
+    "Random Forest": {
+      "accuracy": 98.0,
+      "f1": 96.88,
+      "roc_auc": 99.91,
+      "cv_f1": 98.82
+    },
+    "XGBoost": {
+      "accuracy": 98.0,
+      "f1": 96.97,
+      "roc_auc": 99.82,
+      "cv_f1": 98.45
+    },
+    "Ensemble": {
+      "accuracy": 98.0,
+      "f1": 96.97,
+      "roc_auc": 99.82,
+      "cv_f1": 98.63
+    }
+  },
+  "feature_importance": {
+    "ats_score": 42.0,
+    "overall_score": 17.17,
+    "skill_score": 8.67,
+    "exp_skill_interaction": 8.2,
+    "num_skills": 6.35,
+    "experience_years": 3.82,
+    "certification_score": 2.63,
+    "cert_per_year": 2.09,
+    "certifications": 1.52,
+    "projects_per_year": 1.46,
+    "exp_bucket": 1.01,
+    "project_score": 0.86,
+    "problem_solving_score": 0.77,
+    "communication_score": 0.72,
+    "education_score": 0.71,
+    "projects_count": 0.61,
+    "gpa_normalized": 0.6,
+    "gpa": 0.44,
+    "education_level": 0.36
+  },
+  "threshold": 0.5,
+  "model_label": "XGBoost"
+}

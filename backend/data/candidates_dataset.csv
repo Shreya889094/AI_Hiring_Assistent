@@ -1,0 +1,501 @@
+candidate_id,name,email,education,gpa,experience_years,skills,num_skills,certifications,projects_count,department,job_title_applied,skill_score,education_score,certification_score,project_score,communication_score,problem_solving_score,ats_score,shortlisted
+C0001,Kavya Sharma,kavya.sharma0@email.com,M.Tech,8.01,8.9,"Machine Learning, Git, SQL, TypeScript, JavaScript",5,1,4,DevOps,Backend Developer,35,83,11,35,80,52,55,0
+C0002,Gaurav Joshi,gaurav.joshi1@email.com,B.Tech,6.32,9.7,"Go, Django, Docker, PyTorch, Tableau, Swift, Kubernetes, React, JavaScript",9,1,6,Marketing,Data Scientist,79,67,13,52,47,86,63,0
+C0003,Vivek Singh,vivek.singh2@email.com,PhD,6.85,6.6,"Flutter, TensorFlow, Node.js, JavaScript, Go, Deep Learning, Swift, Docker, Power BI, Hadoop, React, Jenkins",12,7,6,HR,Data Scientist,99,97,96,45,58,82,80,1
+C0004,Amit Shah,amit.shah3@email.com,MCA,6.98,2.0,"NLP, C++, React, Git, GraphQL, Java, Kotlin, Kubernetes, TensorFlow, AWS, JavaScript",11,5,11,Product,ML Engineer,89,74,63,90,86,69,67,1
+C0005,Divya Joshi,divya.joshi4@email.com,MCA,5.32,9.0,"Flutter, NLP, AWS, Power BI, JavaScript, Swift, Java, TypeScript, React",9,2,7,Marketing,Frontend Developer,71,79,31,60,69,78,68,1
+C0006,Simran Sharma,simran.sharma5@email.com,B.Tech,7.54,8.2,"Django, Go, Deep Learning, MongoDB, PyTorch, SQL, NLP, Python, Flutter, GraphQL, AWS",11,1,5,Finance,ML Engineer,88,75,18,45,57,49,63,0
+C0007,Harsh Srivastava,harsh.srivastava6@email.com,B.Sc CS,8.3,11.0,"Java, Deep Learning, Flutter, Redis, Jenkins, Git, Tableau, MongoDB, JavaScript, GraphQL",10,1,3,Marketing,Product Manager,90,65,16,21,80,50,63,0
+C0008,Riya Mehta,riya.mehta7@email.com,MCA,5.35,8.6,"Spark, Jenkins, Git, Deep Learning, Power BI, Tableau, JavaScript, Kubernetes",8,3,4,Engineering,Software Engineer,59,80,43,27,85,43,59,0
+C0009,Nisha Singh,nisha.singh8@email.com,BCA,7.34,6.2,"PyTorch, AWS, Tableau, Computer Vision, Kotlin, Power BI, Selenium, Git, Machine Learning, React",10,6,7,Engineering,Product Manager,78,65,78,57,91,43,65,1
+C0010,Nisha Gupta,nisha.gupta9@email.com,M.Tech,9.84,3.0,"AWS, TypeScript, Data Analysis, Django, NLP, Deep Learning, Jenkins, JavaScript, Tableau, Kotlin",10,0,9,Data Science,Product Manager,78,88,5,67,93,94,61,0
+C0011,Pallavi Saxena,pallavi.saxena10@email.com,MCA,6.09,2.6,"Swift, Python, FastAPI, Hadoop, MongoDB",5,7,4,Engineering,DevOps Engineer,48,70,88,31,48,77,58,0
+C0012,Sneha Verma,sneha.verma11@email.com,B.Sc CS,6.23,7.0,"React, Selenium, SQL, Data Analysis, Node.js",5,3,2,DevOps,DevOps Engineer,37,68,40,20,83,42,46,0
+C0013,Manish Mehta,manish.mehta12@email.com,BCA,9.98,8.0,"Kotlin, AWS, Redis, Hadoop, Kubernetes, Power BI, Swift",7,0,10,Marketing,Frontend Developer,53,58,2,84,49,74,50,0
+C0014,Rahul Agarwal,rahul.agarwal13@email.com,M.Tech,9.45,10.6,"Kubernetes, Spark, Redis, Python, Go, GraphQL, Django",7,1,5,Product,Frontend Developer,60,85,10,36,92,75,60,0
+C0015,Riya Mishra,riya.mishra14@email.com,MBA,7.76,2.4,"Power BI, FastAPI, React, SQL, C++, PyTorch, GraphQL, AWS, Java, Python, Kubernetes",11,4,12,Engineering,Data Scientist,87,71,49,98,72,75,62,0
+C0016,Pooja Verma,pooja.verma15@email.com,B.Sc CS,8.33,10.0,"TypeScript, AWS, JavaScript, Redis, Flutter",5,5,11,Finance,Product Manager,36,68,63,86,67,89,67,1
+C0017,Pooja Shah,pooja.shah16@email.com,PhD,6.91,10.4,"Java, Data Analysis, Go, GraphQL, Kotlin, Selenium, TypeScript, Flutter, Tableau",9,4,12,Data Science,Backend Developer,74,89,49,92,47,94,77,1
+C0018,Sakshi Agarwal,sakshi.agarwal17@email.com,PhD,7.0,3.7,"Java, TensorFlow, Kotlin, Go, AWS, TypeScript",6,4,11,Engineering,Data Scientist,45,90,52,91,98,74,65,1
+C0019,Manish Kumar,manish.kumar18@email.com,BCA,5.22,7.0,"TypeScript, Rust, C++, Selenium",4,6,4,Finance,Backend Developer,30,55,82,31,72,40,55,0
+C0020,Preeti Pandey,preeti.pandey19@email.com,MBA,8.74,0.8,"C++, Deep Learning, Redis, Selenium, Go, PyTorch, Kubernetes, TensorFlow, Rust, Docker, Django, Node.js",12,6,7,DevOps,Software Engineer,97,72,83,61,56,79,67,0
+C0021,Megha Yadav,megha.yadav20@email.com,PhD,8.1,2.5,"C++, Hadoop, Spark, Selenium, Go, Machine Learning, FastAPI, Computer Vision, Kotlin, GraphQL, Flutter, SQL",12,4,11,HR,Frontend Developer,93,96,55,93,50,92,71,1
+C0022,Karan Mehta,karan.mehta21@email.com,B.Tech,5.88,1.8,"Node.js, Hadoop, GraphQL, TensorFlow, Rust, Tableau, Power BI, Computer Vision, Spark, Deep Learning",10,0,7,Engineering,Backend Developer,79,68,-4,54,89,73,55,0
+C0023,Kavya Chauhan,kavya.chauhan22@email.com,MCA,8.83,1.6,"C++, Spark, Selenium, TypeScript, GraphQL, Hadoop, Django, NLP, SQL, Flutter, Computer Vision",11,4,11,Product,Data Analyst,97,80,50,87,78,71,68,1
+C0024,Vikram Yadav,vikram.yadav23@email.com,BCA,5.31,2.8,"SQL, AWS, Docker, NLP, TensorFlow, Rust, Node.js, Hadoop, Machine Learning, JavaScript, PyTorch",11,5,8,Finance,Software Engineer,96,60,68,65,98,66,71,1
+C0025,Vivek Saxena,vivek.saxena24@email.com,BCA,9.9,0.1,"GraphQL, NLP, Power BI, Jenkins, AWS, PyTorch, Computer Vision, Python, TensorFlow",9,6,8,Marketing,Software Engineer,77,59,75,61,79,41,60,0
+C0026,Ananya Pandey,ananya.pandey25@email.com,MCA,6.39,1.6,"FastAPI, Swift, C++",3,7,6,Finance,Data Scientist,25,72,91,49,98,66,54,0
+C0027,Tarun Sharma,tarun.sharma26@email.com,B.Tech,8.35,9.0,"Node.js, JavaScript, Java, Computer Vision, Machine Learning, GraphQL",6,2,3,DevOps,Frontend Developer,43,70,24,26,81,100,53,0
+C0028,Preeti Kumar,preeti.kumar27@email.com,MBA,6.21,7.3,"Redis, Machine Learning, Java, Swift, Kotlin",5,1,12,Finance,Data Scientist,41,68,17,100,89,89,58,0
+C0029,Rohit Agarwal,rohit.agarwal28@email.com,MBA,9.46,6.4,"Selenium, Go, Python, GraphQL",4,1,6,DevOps,ML Engineer,42,72,14,53,74,85,49,0
+C0030,Kritika Joshi,kritika.joshi29@email.com,B.Sc CS,9.25,7.4,"TypeScript, Django, C++, Computer Vision, GraphQL, Hadoop, JavaScript, AWS, NLP, Deep Learning",10,6,1,Product,Frontend Developer,89,67,78,10,56,71,65,1
+C0031,Nisha Joshi,nisha.joshi30@email.com,MBA,6.47,10.6,"Python, Jenkins, TensorFlow, SQL, Deep Learning, Flutter, PyTorch, Computer Vision, Django, Swift, Tableau",11,7,1,Product,DevOps Engineer,98,71,93,4,70,84,75,1
+C0032,Tarun Srivastava,tarun.srivastava31@email.com,MBA,9.75,4.1,"Rust, Hadoop, Django, Redis, AWS, Deep Learning, React, Flutter",8,5,12,Data Science,Data Analyst,65,75,61,99,89,51,65,1
+C0033,Swati Srivastava,swati.srivastava32@email.com,B.Tech,6.46,7.2,"NLP, Flutter, Data Analysis, Redis, Python, Rust, Django",7,4,1,Engineering,Software Engineer,55,68,47,11,53,80,56,0
+C0034,Aditya Saxena,aditya.saxena33@email.com,BCA,8.15,5.7,"FastAPI, Tableau, Deep Learning",3,6,2,Finance,Frontend Developer,21,57,80,20,48,49,42,0
+C0035,Ananya Shah,ananya.shah34@email.com,PhD,6.32,1.4,"NLP, Jenkins, Swift, Spark, Hadoop, Git, Docker, TypeScript, MongoDB, PyTorch, Power BI, GraphQL",12,1,11,Data Science,Data Scientist,92,93,11,86,50,50,60,0
+C0036,Amit Sharma,amit.sharma35@email.com,MBA,9.02,4.9,"MongoDB, JavaScript, NLP, Git, Rust, Docker, Tableau, TypeScript, Selenium, Jenkins",10,4,10,Marketing,Backend Developer,82,76,57,85,57,67,64,0
+C0037,Pooja Joshi,pooja.joshi36@email.com,B.Tech,7.47,9.9,"Redis, MongoDB, Spark, Deep Learning, Hadoop",5,6,9,DevOps,DevOps Engineer,44,65,77,75,50,78,59,0
+C0038,Manish Sharma,manish.sharma37@email.com,MBA,6.67,1.1,"Java, Django, JavaScript, Data Analysis, Computer Vision, FastAPI, C++, NLP, AWS, SQL, MongoDB, PyTorch",12,1,6,Product,Product Manager,100,76,15,49,87,46,57,0
+C0039,Pallavi Yadav,pallavi.yadav38@email.com,MCA,9.12,8.0,"Hadoop, SQL, C++",3,5,7,DevOps,Product Manager,27,78,61,59,45,82,59,0
+C0040,Sneha Mehta,sneha.mehta39@email.com,B.Sc CS,5.07,6.2,"React, PyTorch, Django, AWS, Hadoop, Docker, NLP, Rust, Computer Vision, Git",10,3,5,Finance,Data Scientist,75,67,36,43,71,45,57,0
+C0041,Sakshi Gupta,sakshi.gupta40@email.com,M.Tech,8.73,7.8,"Selenium, Django, GraphQL, Tableau, Computer Vision, Deep Learning, NLP",7,6,10,Product,Product Manager,55,87,76,83,53,95,67,1
+C0042,Nisha Srivastava,nisha.srivastava41@email.com,B.Tech,7.86,3.2,"Power BI, Docker, Spark, Tableau, Data Analysis, Kubernetes, Django",7,7,4,Engineering,DevOps Engineer,63,69,91,30,59,94,62,0
+C0043,Tarun Tiwari,tarun.tiwari42@email.com,MBA,5.08,4.6,"Power BI, JavaScript, AWS, Selenium, Go",5,7,9,Engineering,Data Analyst,38,77,87,74,54,66,57,0
+C0044,Manish Mishra,manish.mishra43@email.com,MCA,8.16,7.5,"Go, Git, Swift, C++",4,0,2,DevOps,Data Scientist,42,80,4,14,63,54,43,0
+C0045,Arjun Chauhan,arjun.chauhan44@email.com,BCA,7.66,2.0,"C++, React, MongoDB",3,5,3,Data Science,ML Engineer,30,55,66,22,81,83,43,0
+C0046,Ananya Tiwari,ananya.tiwari45@email.com,M.Tech,6.5,7.4,"Docker, NLP, Hadoop, FastAPI, Jenkins, AWS, Go, Python, Kotlin, Tableau, Git, Spark",12,1,6,DevOps,Frontend Developer,96,87,15,52,72,84,69,1
+C0047,Siddharth Tiwari,siddharth.tiwari46@email.com,B.Tech,9.01,10.2,"Rust, MongoDB, Jenkins, Java, GraphQL, Go, TensorFlow, AWS, Python",9,7,4,Marketing,Frontend Developer,68,68,90,36,59,80,68,1
+C0048,Rahul Gupta,rahul.gupta47@email.com,MBA,8.93,10.8,"Spark, JavaScript, Flutter, AWS, Jenkins, Hadoop, Docker",7,6,4,Product,ML Engineer,61,67,75,29,68,73,70,1
+C0049,Manish Saxena,manish.saxena48@email.com,BCA,6.32,11.6,"Hadoop, Node.js, Docker, NLP",4,5,7,HR,Frontend Developer,39,60,61,51,52,69,59,0
+C0050,Vivek Agarwal,vivek.agarwal49@email.com,M.Tech,5.7,1.3,"C++, NLP, Node.js",3,4,7,Engineering,Data Scientist,33,87,57,52,47,59,51,0
+C0051,Divya Patel,divya.patel50@email.com,BCA,9.28,4.7,"GraphQL, Docker, Git, Machine Learning, Selenium, Computer Vision, Redis, PyTorch, AWS, Java, Rust",11,3,8,Marketing,DevOps Engineer,94,65,41,62,51,83,64,0
+C0052,Sneha Tiwari,sneha.tiwari51@email.com,B.Tech,9.15,3.3,"PyTorch, Java, React, Go",4,2,4,Finance,Backend Developer,34,72,30,28,80,53,43,0
+C0053,Nisha Patel,nisha.patel52@email.com,B.Sc CS,7.94,9.5,"Docker, AWS, FastAPI, Data Analysis, React, Go, TypeScript",7,2,6,Engineering,ML Engineer,51,60,21,46,46,51,51,0
+C0054,Nikhil Srivastava,nikhil.srivastava53@email.com,B.Tech,9.99,1.4,"Flutter, Selenium, Machine Learning, Spark, FastAPI, Deep Learning, Redis, Java, Git, Kotlin",10,7,1,HR,Data Scientist,84,72,96,3,99,65,66,1
+C0055,Pallavi Chauhan,pallavi.chauhan54@email.com,B.Tech,5.5,0.9,"Docker, Node.js, AWS, Django, Redis, C++, MongoDB, Power BI, Rust, Kubernetes, TensorFlow, Tableau",12,7,10,HR,Backend Developer,100,70,94,81,89,47,77,0
+C0056,Shruti Chauhan,shruti.chauhan55@email.com,MCA,7.16,10.7,"Kotlin, GraphQL, Machine Learning, C++, PyTorch, Kubernetes, Go, AWS, Data Analysis, Node.js",10,1,2,Finance,ML Engineer,90,75,9,12,92,87,67,1
+C0057,Simran Verma,simran.verma56@email.com,B.Sc CS,7.54,7.0,"Deep Learning, GraphQL, Rust, TypeScript, Power BI, Hadoop, Flutter, Java",8,4,2,Data Science,Data Scientist,68,68,52,20,54,82,61,0
+C0058,Rajesh Agarwal,rajesh.agarwal57@email.com,BCA,9.35,1.4,"TypeScript, Java, Django, Jenkins, SQL, AWS",6,5,1,Engineering,ML Engineer,52,64,65,5,81,82,51,0
+C0059,Priya Singh,priya.singh58@email.com,M.Tech,5.25,9.0,"Hadoop, Go, Kubernetes, Flutter, Docker, Power BI, Selenium, Swift, MongoDB",9,0,3,HR,Product Manager,69,86,-3,28,50,57,58,0
+C0060,Pallavi Chauhan,pallavi.chauhan59@email.com,M.Tech,9.92,5.0,"Rust, TypeScript, Deep Learning, MongoDB",4,4,4,Product,Backend Developer,42,88,47,33,48,40,50,0
+C0061,Rahul Joshi,rahul.joshi60@email.com,B.Tech,7.18,3.5,"TypeScript, Data Analysis, AWS, Swift, Django, Rust, Deep Learning, FastAPI, Tableau, Go",10,1,12,Finance,DevOps Engineer,86,65,14,91,74,98,59,0
+C0062,Shruti Tiwari,shruti.tiwari61@email.com,MCA,6.22,8.5,"Kotlin, Java, C++, Kubernetes",4,5,7,Engineering,Product Manager,41,74,61,52,82,65,65,1
+C0063,Megha Mishra,megha.mishra62@email.com,PhD,5.51,2.7,"Selenium, Deep Learning, Jenkins, TensorFlow",4,5,3,Marketing,ML Engineer,38,89,70,22,61,52,49,0
+C0064,Vikram Kumar,vikram.kumar63@email.com,MBA,6.55,11.4,"Spark, C++, Jenkins, Docker, NLP, JavaScript, Computer Vision, Tableau, Selenium, Power BI",10,0,9,Product,Frontend Developer,83,74,0,68,73,42,61,0
+C0065,Vikram Singh,vikram.singh64@email.com,B.Sc CS,5.86,7.4,"JavaScript, Spark, TensorFlow, C++, Redis, Computer Vision, FastAPI, Node.js, Java, NLP",10,5,9,DevOps,ML Engineer,78,66,61,77,60,85,71,1
+C0066,Preeti Agarwal,preeti.agarwal65@email.com,MCA,6.67,11.0,"React, Go, Node.js, Jenkins, Git, Django, Power BI, TensorFlow",8,4,10,Product,Frontend Developer,68,76,57,77,82,82,71,1
+C0067,Anjali Patel,anjali.patel66@email.com,B.Tech,5.96,7.1,"Swift, Go, AWS, SQL, C++, Jenkins, PyTorch, FastAPI, Data Analysis, Python, GraphQL",11,2,6,Product,Data Scientist,92,69,24,50,53,49,58,0
+C0068,Varun Srivastava,varun.srivastava67@email.com,BCA,9.85,0.5,"Swift, Docker, Kubernetes, Data Analysis, Spark",5,6,11,Data Science,Backend Developer,36,64,78,86,84,58,57,0
+C0069,Megha Saxena,megha.saxena68@email.com,M.Tech,7.77,10.8,"Spark, Hadoop, MongoDB, Swift, FastAPI, Tableau, PyTorch, SQL, GraphQL, Machine Learning, Redis, Node.js",12,0,8,Finance,Data Scientist,99,85,5,64,51,85,75,1
+C0070,Aditya Singh,aditya.singh69@email.com,BCA,6.87,9.2,"Docker, TypeScript, SQL, NLP, GraphQL, Power BI, Spark, Data Analysis, Python, PyTorch, Java",11,5,7,Finance,DevOps Engineer,95,62,63,52,46,60,66,1
+C0071,Pooja Patel,pooja.patel70@email.com,PhD,7.64,0.5,"Tableau, Spark, Python, SQL, Java",5,3,9,Data Science,Frontend Developer,43,94,36,76,52,89,52,0
+C0072,Kavya Verma,kavya.verma71@email.com,MBA,6.2,2.9,"Node.js, Deep Learning, Power BI, Java, C++, FastAPI, MongoDB, Jenkins, Rust, Git",10,6,10,Marketing,DevOps Engineer,84,76,73,80,71,51,65,1
+C0073,Vikram Srivastava,vikram.srivastava72@email.com,PhD,8.14,6.5,"Java, Swift, Tableau, JavaScript, C++, TensorFlow, Data Analysis, AWS, Flutter, Python, Spark",11,5,12,Data Science,Software Engineer,85,95,63,100,94,77,81,1
+C0074,Rajesh Mishra,rajesh.mishra73@email.com,M.Tech,7.58,9.8,"Tableau, Data Analysis, AWS, Node.js, Rust, Swift, NLP, Java, Docker, Machine Learning",10,3,6,Product,Software Engineer,76,90,34,47,97,74,74,1
+C0075,Siddharth Yadav,siddharth.yadav74@email.com,PhD,6.84,4.3,"Django, Deep Learning, Flutter, TypeScript, Spark, TensorFlow, Selenium, NLP",8,5,8,Finance,Data Scientist,71,87,62,66,96,73,69,1
+C0076,Shruti Singh,shruti.singh75@email.com,PhD,5.21,5.2,"MongoDB, C++, Machine Learning, SQL, Kubernetes, Go, Docker, Spark, NLP, Redis, Rust",11,2,6,Marketing,Product Manager,96,89,28,50,100,98,73,1
+C0077,Swati Verma,swati.verma76@email.com,MBA,8.89,0.9,"Selenium, Kubernetes, Java, Docker, TypeScript, Redis, Go, Kotlin",8,0,2,Marketing,Software Engineer,73,73,-3,14,68,63,46,0
+C0078,Pooja Chauhan,pooja.chauhan77@email.com,BCA,8.68,11.4,"AWS, Jenkins, Flutter, Kotlin",4,4,2,Marketing,Data Scientist,37,62,50,11,76,73,57,0
+C0079,Manish Joshi,manish.joshi78@email.com,M.Tech,8.34,8.4,"Power BI, TensorFlow, Deep Learning, AWS, TypeScript, JavaScript, NLP",7,7,11,Marketing,Frontend Developer,56,89,87,88,90,44,78,1
+C0080,Megha Kumar,megha.kumar79@email.com,MBA,7.77,8.5,"Flutter, Selenium, NLP, Deep Learning, TensorFlow",5,3,1,Data Science,Data Scientist,39,77,41,8,68,69,56,0
+C0081,Vikram Yadav,vikram.yadav80@email.com,MBA,5.91,4.8,"GraphQL, Git, Node.js, AWS, Kubernetes, C++, JavaScript, NLP, TypeScript, Go, FastAPI",11,2,11,Finance,Software Engineer,94,74,29,92,53,67,70,1
+C0082,Kavya Srivastava,kavya.srivastava81@email.com,M.Tech,7.67,1.8,"NLP, Rust, MongoDB, SQL, AWS, Machine Learning, C++, Django",8,2,5,Marketing,ML Engineer,67,82,31,44,77,81,54,0
+C0083,Amit Mishra,amit.mishra82@email.com,B.Sc CS,7.49,10.1,"SQL, JavaScript, FastAPI",3,6,11,HR,Frontend Developer,25,60,82,83,85,74,63,0
+C0084,Tarun Shah,tarun.shah83@email.com,MBA,6.56,9.7,"Hadoop, Node.js, React, Kubernetes, NLP, PyTorch, Computer Vision",7,3,10,DevOps,ML Engineer,65,73,39,77,90,60,69,1
+C0085,Preeti Srivastava,preeti.srivastava84@email.com,BCA,8.61,6.7,"Deep Learning, Django, Spark, Computer Vision, Node.js, React, Java, Docker, TensorFlow, Redis",10,3,6,DevOps,Data Analyst,88,58,36,52,57,88,60,0
+C0086,Pallavi Yadav,pallavi.yadav85@email.com,B.Tech,7.15,6.0,"Hadoop, Computer Vision, PyTorch, Rust, Java, Tableau, Docker, Jenkins, Redis, C++, Go",11,4,1,Finance,Product Manager,98,71,55,4,61,86,65,1
+C0087,Preeti Verma,preeti.verma86@email.com,B.Sc CS,6.87,4.8,"Flutter, MongoDB, Node.js, Swift, FastAPI, NLP",6,1,2,Finance,ML Engineer,51,68,10,17,66,75,46,0
+C0088,Siddharth Srivastava,siddharth.srivastava87@email.com,B.Tech,6.64,4.8,"AWS, Go, Tableau",3,2,9,DevOps,Frontend Developer,33,65,30,69,84,60,47,0
+C0089,Nisha Srivastava,nisha.srivastava88@email.com,B.Sc CS,7.89,9.9,"Redis, Tableau, Java, Flutter, Kubernetes, Go, React, PyTorch, MongoDB, Docker, Power BI, Rust",12,7,11,Data Science,Product Manager,91,67,90,92,91,43,84,1
+C0090,Pooja Shah,pooja.shah89@email.com,MBA,9.36,0.4,"Java, Spark, C++, GraphQL, Node.js, PyTorch",6,6,10,HR,ML Engineer,49,68,81,82,92,86,56,0
+C0091,Kritika Mehta,kritika.mehta90@email.com,MBA,7.79,6.7,"Swift, C++, Data Analysis, Hadoop, Power BI, Django, Kubernetes, Tableau, Selenium, Go, Git",11,7,4,Finance,Frontend Developer,91,74,89,31,59,100,72,1
+C0092,Riya Saxena,riya.saxena91@email.com,BCA,6.73,3.8,"MongoDB, Deep Learning, Swift, Kotlin, GraphQL, Data Analysis, Selenium",7,4,5,HR,Data Analyst,55,63,47,36,73,81,52,0
+C0093,Riya Mehta,riya.mehta92@email.com,BCA,6.65,9.9,"AWS, Machine Learning, Computer Vision, Selenium, Java, Go, Spark",7,3,2,Engineering,ML Engineer,58,63,34,17,75,46,53,0
+C0094,Nikhil Saxena,nikhil.saxena93@email.com,M.Tech,9.99,5.7,"MongoDB, React, SQL, NLP, Django, Flutter, Hadoop, TypeScript",8,2,3,Data Science,Frontend Developer,60,84,27,19,70,90,59,0
+C0095,Rohit Sharma,rohit.sharma94@email.com,B.Sc CS,8.24,3.6,"MongoDB, Hadoop, Power BI, AWS, TypeScript, FastAPI, NLP, Selenium",8,1,3,HR,DevOps Engineer,65,61,13,26,90,51,44,0
+C0096,Aditya Mehta,aditya.mehta95@email.com,PhD,6.92,2.1,"TypeScript, Selenium, C++, SQL, TensorFlow, Go, React, Power BI, Node.js",9,5,1,Product,Frontend Developer,82,97,63,7,73,88,64,0
+C0097,Aarav Joshi,aarav.joshi96@email.com,MBA,8.45,7.8,"Deep Learning, Hadoop, Redis",3,6,9,Product,Backend Developer,24,70,83,71,85,98,62,0
+C0098,Karan Patel,karan.patel97@email.com,MCA,5.39,5.7,"GraphQL, Tableau, PyTorch, Computer Vision, Go, Swift, Redis, TypeScript",8,7,12,Finance,Backend Developer,61,79,94,96,81,47,68,1
+C0099,Harsh Patel,harsh.patel98@email.com,PhD,7.79,2.0,"Deep Learning, PyTorch, Power BI, SQL, Spark, FastAPI, NLP, Kotlin, Java, Tableau",10,6,10,HR,Software Engineer,79,95,80,75,88,91,74,1
+C0100,Anjali Joshi,anjali.joshi99@email.com,MBA,9.82,9.8,"Node.js, JavaScript, TypeScript, Rust, Power BI, Jenkins, Django, Java, Hadoop, Computer Vision, Selenium, Docker",12,2,11,DevOps,Product Manager,100,70,23,93,68,97,77,1
+C0101,Vivek Singh,vivek.singh100@email.com,MBA,7.32,8.2,"Rust, Deep Learning, Data Analysis, Git, Kotlin",5,3,1,Marketing,Product Manager,39,75,34,7,91,74,55,0
+C0102,Karan Shah,karan.shah101@email.com,M.Tech,7.99,5.5,"Deep Learning, JavaScript, GraphQL, Java, Git, Machine Learning",6,1,1,Data Science,Software Engineer,45,84,17,10,90,95,47,0
+C0103,Anjali Chauhan,anjali.chauhan102@email.com,M.Tech,7.07,2.8,"Selenium, MongoDB, NLP, C++, Computer Vision",5,2,9,Marketing,ML Engineer,44,80,31,70,62,43,54,0
+C0104,Shruti Saxena,shruti.saxena103@email.com,BCA,9.03,0.6,"Jenkins, C++, GraphQL, Selenium, Node.js, Docker, TensorFlow, SQL, Swift",9,3,5,DevOps,ML Engineer,82,65,37,37,48,75,54,0
+C0105,Vivek Shah,vivek.shah104@email.com,BCA,8.02,3.1,"Spark, Flutter, SQL, Git",4,0,7,Data Science,Backend Developer,33,65,-1,61,47,95,37,0
+C0106,Tarun Mehta,tarun.mehta105@email.com,BCA,6.98,10.4,"PyTorch, TensorFlow, Deep Learning",3,3,12,Finance,Frontend Developer,34,59,43,94,60,75,59,0
+C0107,Vivek Chauhan,vivek.chauhan106@email.com,BCA,7.07,6.4,"Flutter, Selenium, Power BI, Hadoop, React, Kotlin, Git",7,5,6,HR,ML Engineer,66,59,63,48,81,95,62,0
+C0108,Priya Joshi,priya.joshi107@email.com,B.Sc CS,8.7,6.6,"MongoDB, Docker, TensorFlow, Go, Deep Learning, Selenium, Git, GraphQL, Tableau",9,5,8,Data Science,ML Engineer,82,69,64,69,74,50,69,1
+C0109,Harsh Saxena,harsh.saxena108@email.com,B.Sc CS,6.16,2.2,"Jenkins, JavaScript, Node.js",3,0,3,Data Science,Data Analyst,20,70,1,29,90,49,32,0
+C0110,Preeti Verma,preeti.verma109@email.com,MBA,7.15,7.4,"Power BI, Java, Python, GraphQL, Selenium, Tableau, FastAPI, Flutter, AWS, Django",10,0,12,Marketing,ML Engineer,84,76,3,100,56,46,60,0
+C0111,Divya Mehta,divya.mehta110@email.com,BCA,9.96,7.4,"Kotlin, SQL, Flutter, Git, NLP, MongoDB, Deep Learning",7,4,2,Engineering,Product Manager,58,60,57,21,86,88,55,0
+C0112,Vivek Tiwari,vivek.tiwari111@email.com,B.Tech,9.6,6.6,"Kubernetes, SQL, Power BI",3,5,2,Product,Software Engineer,32,75,69,19,59,53,54,0
+C0113,Vikram Joshi,vikram.joshi112@email.com,B.Sc CS,5.81,10.8,"Data Analysis, C++, Java",3,2,2,HR,DevOps Engineer,25,70,27,15,60,76,50,0
+C0114,Vivek Patel,vivek.patel113@email.com,MBA,8.92,9.5,"Rust, React, Machine Learning, TypeScript, Deep Learning, GraphQL, JavaScript, Kubernetes, Redis, Swift, Hadoop",11,5,11,Product,Product Manager,95,68,60,87,73,71,76,1
+C0115,Shruti Kumar,shruti.kumar114@email.com,MBA,5.77,8.2,"MongoDB, Computer Vision, Node.js, SQL",4,2,12,Engineering,Data Scientist,35,73,27,100,69,60,58,0
+C0116,Aarav Yadav,aarav.yadav115@email.com,PhD,6.77,5.3,"AWS, SQL, Data Analysis, TypeScript",4,6,1,Finance,Product Manager,41,91,74,4,50,78,56,0
+C0117,Aarav Yadav,aarav.yadav116@email.com,PhD,6.5,5.0,"Computer Vision, Jenkins, Kubernetes, Swift, SQL, Node.js, AWS, Docker, Spark, Git, Hadoop",11,2,5,Product,Backend Developer,85,88,27,41,95,44,65,1
+C0118,Pallavi Mehta,pallavi.mehta117@email.com,M.Tech,9.87,5.5,"Kotlin, Go, Swift",3,7,7,Marketing,Backend Developer,29,84,91,61,53,59,59,0
+C0119,Tarun Mishra,tarun.mishra118@email.com,MCA,7.96,2.1,"Power BI, Computer Vision, C++, Swift, AWS, GraphQL, Kotlin",7,5,10,Engineering,Data Analyst,63,75,61,78,79,51,64,0
+C0120,Riya Chauhan,riya.chauhan119@email.com,PhD,7.91,9.6,"Power BI, AWS, Redis, Computer Vision, Jenkins, Go, Node.js, Rust, PyTorch",9,1,10,Marketing,Software Engineer,79,88,15,82,79,72,72,1
+C0121,Preeti Singh,preeti.singh120@email.com,M.Tech,8.73,1.3,"Kubernetes, JavaScript, Kotlin, Go, Tableau, Selenium, PyTorch, React",8,1,4,DevOps,DevOps Engineer,59,90,12,35,80,77,50,0
+C0122,Anjali Chauhan,anjali.chauhan121@email.com,B.Sc CS,6.74,9.3,"Rust, Java, Tableau, Machine Learning, MongoDB",5,1,12,Marketing,Data Analyst,48,68,9,93,66,69,56,0
+C0123,Rajesh Saxena,rajesh.saxena122@email.com,MBA,7.76,1.2,"Node.js, Redis, JavaScript, Deep Learning, Python, TypeScript, Kubernetes, C++",8,2,9,DevOps,Backend Developer,62,74,24,69,66,75,54,0
+C0124,Anjali Kumar,anjali.kumar123@email.com,MBA,5.93,2.2,"Java, TensorFlow, Spark, TypeScript, Jenkins, Python, Rust, Machine Learning, Power BI",9,1,2,Engineering,Frontend Developer,75,73,17,19,65,52,52,0
+C0125,Pallavi Srivastava,pallavi.srivastava124@email.com,BCA,5.59,11.6,"Kotlin, Deep Learning, Rust, Selenium, TypeScript, NLP, Redis, SQL, GraphQL",9,1,3,Product,ML Engineer,76,64,18,24,64,47,57,0
+C0126,Varun Tiwari,varun.tiwari125@email.com,M.Tech,9.33,5.0,"TypeScript, Data Analysis, Power BI, Jenkins, Django, SQL, Computer Vision, Docker, Node.js",9,5,10,Data Science,Product Manager,72,89,67,75,45,71,65,1
+C0127,Simran Srivastava,simran.srivastava126@email.com,MCA,6.44,7.8,"GraphQL, Spark, Power BI, Kubernetes, JavaScript, MongoDB, Python, Kotlin, Swift, Deep Learning",10,0,4,Marketing,Data Scientist,84,80,-1,35,94,69,65,1
+C0128,Kavya Joshi,kavya.joshi127@email.com,PhD,7.2,9.3,"JavaScript, Spark, PyTorch, TypeScript, React, Flutter, GraphQL, C++, Swift, Deep Learning, Docker",11,7,6,Data Science,DevOps Engineer,84,92,90,44,52,89,77,1
+C0129,Shruti Kumar,shruti.kumar128@email.com,PhD,9.93,7.4,"React, Rust, Django, Kubernetes, Power BI, Jenkins",6,4,5,Data Science,Product Manager,52,90,56,43,88,92,62,0
+C0130,Sneha Joshi,sneha.joshi129@email.com,M.Tech,8.17,10.4,"Docker, C++, Computer Vision, Kotlin, Selenium, Node.js",6,6,8,Marketing,Frontend Developer,51,82,79,60,94,45,73,1
+C0131,Preeti Chauhan,preeti.chauhan130@email.com,BCA,7.47,11.4,"SQL, Hadoop, Rust",3,6,7,Product,ML Engineer,21,64,76,54,65,93,59,0
+C0132,Pallavi Mishra,pallavi.mishra131@email.com,PhD,9.96,10.7,"Machine Learning, Hadoop, Java",3,2,8,HR,Frontend Developer,22,87,28,59,72,52,53,0
+C0133,Amit Joshi,amit.joshi132@email.com,BCA,8.52,1.1,"Flutter, Kubernetes, React, Kotlin",4,3,11,Engineering,ML Engineer,36,59,40,84,45,53,46,0
+C0134,Karan Srivastava,karan.srivastava133@email.com,B.Tech,5.69,8.2,"Deep Learning, TypeScript, AWS, Tableau, JavaScript, Git, TensorFlow, Power BI",8,1,6,HR,ML Engineer,62,65,13,47,94,92,56,0
+C0135,Vikram Srivastava,vikram.srivastava134@email.com,B.Sc CS,8.76,6.8,"Spark, Rust, PyTorch, Docker, GraphQL",5,3,2,Product,Product Manager,49,70,35,13,82,86,55,0
+C0136,Suresh Patel,suresh.patel135@email.com,MBA,8.92,3.0,"MongoDB, Java, Redis, PyTorch, FastAPI, Selenium",6,6,11,DevOps,Data Scientist,49,68,77,83,95,55,64,0
+C0137,Divya Saxena,divya.saxena136@email.com,B.Tech,5.86,7.7,"Flutter, C++, AWS",3,6,9,Engineering,Data Scientist,31,73,78,77,75,89,59,0
+C0138,Aarav Joshi,aarav.joshi137@email.com,B.Tech,7.56,2.6,"MongoDB, Selenium, GraphQL, TypeScript, Rust, TensorFlow, JavaScript, C++, Django, Jenkins, Redis",11,4,5,Marketing,DevOps Engineer,87,71,48,36,58,91,58,0
+C0139,Anjali Singh,anjali.singh138@email.com,MCA,6.55,3.7,"Computer Vision, SQL, TypeScript",3,7,10,Engineering,Software Engineer,22,73,95,75,92,82,57,0
+C0140,Rahul Sharma,rahul.sharma139@email.com,BCA,5.32,2.0,"FastAPI, Kubernetes, Flutter, AWS, Selenium, Swift, TypeScript, Power BI, Tableau, React, Hadoop",11,5,5,DevOps,Data Analyst,83,63,66,43,90,76,59,0
+C0141,Varun Agarwal,varun.agarwal140@email.com,PhD,5.23,0.7,"Flutter, Kubernetes, FastAPI, Machine Learning, Deep Learning",5,0,1,Data Science,Software Engineer,42,96,-5,6,68,64,38,0
+C0142,Simran Pandey,simran.pandey141@email.com,M.Tech,5.34,2.7,"Django, Node.js, Flutter, Deep Learning, FastAPI, Go, Spark, Java",8,3,1,Finance,Frontend Developer,64,86,42,9,74,95,55,0
+C0143,Suresh Singh,suresh.singh142@email.com,B.Tech,5.03,6.6,"MongoDB, Redis, Computer Vision, Hadoop, Data Analysis, Git",6,3,4,Marketing,DevOps Engineer,58,70,42,29,71,41,53,0
+C0144,Aarav Mishra,aarav.mishra143@email.com,MBA,7.07,0.0,"Machine Learning, PyTorch, Computer Vision, GraphQL, Selenium, Java, Node.js",7,1,4,Marketing,Data Scientist,59,73,8,35,68,69,41,0
+C0145,Varun Patel,varun.patel144@email.com,MCA,5.37,7.6,"React, TypeScript, AWS, Computer Vision, Docker, Selenium, Jenkins, Kubernetes, Kotlin, TensorFlow, Rust, Flutter",12,5,5,Data Science,Data Scientist,100,71,67,38,57,48,67,1
+C0146,Amit Chauhan,amit.chauhan145@email.com,MCA,5.46,5.6,"Rust, PyTorch, Spark, Redis, NLP, AWS, TypeScript, React, JavaScript, SQL, Go",11,0,6,Marketing,Software Engineer,92,71,-2,45,60,62,59,0
+C0147,Megha Joshi,megha.joshi146@email.com,M.Tech,9.12,9.8,"Spark, Computer Vision, Machine Learning, Hadoop, React, Kotlin, Power BI, Node.js, Tableau",9,0,3,Marketing,Frontend Developer,67,80,-2,22,68,83,54,0
+C0148,Vikram Sharma,vikram.sharma147@email.com,M.Tech,7.13,12.0,"AWS, SQL, Go, Deep Learning, Java, NLP, Tableau, Jenkins, MongoDB, PyTorch",10,7,7,Product,Frontend Developer,87,90,86,61,67,53,80,1
+C0149,Gaurav Patel,gaurav.patel148@email.com,B.Sc CS,8.21,0.4,"MongoDB, Power BI, GraphQL, Tableau, Java, JavaScript",6,6,7,HR,Software Engineer,51,69,75,54,96,73,55,0
+C0150,Vivek Agarwal,vivek.agarwal149@email.com,PhD,7.65,5.8,"Selenium, C++, Swift, Django, SQL, Python, Kubernetes, Redis",8,0,1,Data Science,Data Scientist,66,94,-1,10,94,77,55,0
+C0151,Divya Shah,divya.shah150@email.com,PhD,9.74,3.2,"Swift, Rust, Data Analysis, Selenium, Deep Learning, MongoDB",6,5,1,Finance,Data Analyst,53,87,69,8,81,49,55,0
+C0152,Harsh Yadav,harsh.yadav151@email.com,B.Tech,9.03,2.1,"NLP, Java, Jenkins",3,0,10,Finance,DevOps Engineer,34,66,0,78,66,85,40,0
+C0153,Sneha Sharma,sneha.sharma152@email.com,MBA,9.88,1.8,"Jenkins, Flutter, Node.js, Kotlin",4,5,6,Finance,Data Analyst,30,69,64,45,91,100,53,0
+C0154,Suresh Kumar,suresh.kumar153@email.com,B.Sc CS,5.16,8.5,"NLP, Data Analysis, Swift, Redis, Flutter, Rust, Docker, Node.js",8,0,7,HR,Data Scientist,64,69,4,60,83,60,56,0
+C0155,Pallavi Patel,pallavi.patel154@email.com,B.Tech,8.6,4.0,"C++, Kubernetes, SQL, Go, NLP, Python, AWS, Machine Learning",8,1,5,HR,Product Manager,66,68,13,36,48,64,51,0
+C0156,Amit Pandey,amit.pandey155@email.com,MCA,5.85,5.9,"Swift, Machine Learning, Tableau, NLP, SQL, Power BI, JavaScript, Kotlin, Java, Docker, Python",11,4,2,Marketing,Data Scientist,93,75,48,16,69,50,60,0
+C0157,Nisha Saxena,nisha.saxena156@email.com,MCA,8.61,8.5,"TypeScript, Kubernetes, React, Machine Learning, Go",5,3,12,HR,Frontend Developer,41,80,40,99,91,74,65,1
+C0158,Megha Shah,megha.shah157@email.com,MCA,5.85,1.2,"Power BI, Docker, React, Flutter, Python, PyTorch, JavaScript, Jenkins, GraphQL, Go, C++",11,3,1,Finance,Data Scientist,98,79,35,6,63,45,59,0
+C0159,Megha Tiwari,megha.tiwari158@email.com,MBA,6.32,5.7,"Git, Swift, Data Analysis, Flutter",4,5,8,Finance,Frontend Developer,39,71,62,59,74,56,55,0
+C0160,Sneha Patel,sneha.patel159@email.com,MBA,8.44,9.0,"Rust, Git, GraphQL, NLP",4,6,7,DevOps,Frontend Developer,28,68,81,59,75,76,59,0
+C0161,Ananya Tiwari,ananya.tiwari160@email.com,MBA,9.99,10.8,"Jenkins, Docker, Deep Learning, Spark, SQL, Tableau, Machine Learning, Kotlin, Power BI, Node.js, Java",11,1,7,Product,Data Scientist,96,67,18,54,85,49,69,1
+C0162,Ananya Tiwari,ananya.tiwari161@email.com,B.Sc CS,8.93,6.7,"Jenkins, Hadoop, Python, GraphQL, React, PyTorch, Node.js",7,1,10,DevOps,Frontend Developer,55,65,9,76,100,74,58,0
+C0163,Vivek Saxena,vivek.saxena162@email.com,MCA,5.1,6.9,"Django, Kotlin, Docker, JavaScript, Go",5,0,5,Product,Frontend Developer,42,70,2,40,97,90,51,0
+C0164,Pallavi Gupta,pallavi.gupta163@email.com,M.Tech,8.8,11.7,"Spark, C++, Django, GraphQL, Redis, Jenkins, JavaScript",7,7,7,Marketing,ML Engineer,57,82,89,58,100,63,72,1
+C0165,Vikram Yadav,vikram.yadav164@email.com,MCA,6.98,8.5,"Java, Data Analysis, TensorFlow, Selenium, GraphQL, Git, Deep Learning, Hadoop, NLP, TypeScript, Jenkins",11,4,8,Data Science,DevOps Engineer,89,72,52,67,52,83,66,1
+C0166,Pallavi Chauhan,pallavi.chauhan165@email.com,PhD,8.39,2.1,"Rust, Git, Kubernetes, FastAPI, Flutter, GraphQL, Jenkins, JavaScript, Docker, Python, TensorFlow, Java",12,3,11,Marketing,Software Engineer,96,94,37,86,62,81,71,1
+C0167,Aarav Saxena,aarav.saxena166@email.com,MBA,7.6,10.9,"Python, NLP, FastAPI, Redis, Rust, Tableau, C++, AWS, PyTorch, TensorFlow, Data Analysis, Jenkins",12,3,5,Engineering,DevOps Engineer,99,69,41,45,84,65,70,1
+C0168,Simran Yadav,simran.yadav167@email.com,B.Tech,9.5,3.6,"Go, Django, C++, FastAPI",4,3,9,HR,DevOps Engineer,36,72,36,70,96,94,56,0
+C0169,Rahul Sharma,rahul.sharma168@email.com,BCA,9.2,7.9,"Kotlin, Swift, JavaScript, TensorFlow, Kubernetes, Flutter, Rust, Deep Learning, Go",9,5,5,Engineering,Data Analyst,82,59,68,37,80,51,66,1
+C0170,Rahul Joshi,rahul.joshi169@email.com,B.Sc CS,7.32,8.7,"SQL, NLP, Rust, Jenkins, Flutter, TypeScript, Docker, PyTorch",8,5,10,Finance,Data Scientist,69,62,64,79,52,70,62,0
+C0171,Tarun Mehta,tarun.mehta170@email.com,PhD,6.58,6.0,"Jenkins, Redis, GraphQL, React, TypeScript, Tableau, Node.js, Spark, Machine Learning",9,6,8,DevOps,DevOps Engineer,77,97,82,61,90,51,72,1
+C0172,Neha Mishra,neha.mishra171@email.com,B.Tech,7.15,7.6,"PyTorch, Kubernetes, Jenkins, Power BI, Kotlin, Swift, Hadoop",7,2,7,Engineering,Software Engineer,53,72,30,61,72,70,60,0
+C0173,Harsh Mehta,harsh.mehta172@email.com,B.Tech,6.49,8.8,"TensorFlow, Java, Python, Computer Vision, Deep Learning, Rust, Spark, Data Analysis, Docker, Node.js, React",11,4,2,Marketing,DevOps Engineer,95,70,49,11,63,69,70,1
+C0174,Shruti Patel,shruti.patel173@email.com,MCA,5.84,4.1,"Kubernetes, Kotlin, Java, NLP, Deep Learning, Flutter",6,3,10,DevOps,Frontend Developer,47,75,34,83,68,85,52,0
+C0175,Harsh Verma,harsh.verma174@email.com,B.Tech,7.37,7.1,"Java, React, Deep Learning, GraphQL",4,6,9,Product,Product Manager,41,75,74,71,54,53,56,0
+C0176,Arjun Srivastava,arjun.srivastava175@email.com,B.Sc CS,8.52,3.2,"Machine Learning, Selenium, Deep Learning, MongoDB, React, Kotlin, Tableau, Computer Vision, Git",9,4,4,Marketing,Data Analyst,73,62,55,32,63,50,50,0
+C0177,Riya Saxena,riya.saxena176@email.com,B.Tech,7.28,4.0,"Deep Learning, Power BI, Docker, SQL",4,1,11,Engineering,Data Scientist,29,65,12,86,63,56,47,0
+C0178,Neha Verma,neha.verma177@email.com,BCA,6.34,10.2,"TypeScript, Deep Learning, Machine Learning, JavaScript, Python, Git, Node.js, Go",8,5,8,Finance,DevOps Engineer,64,65,65,68,91,45,70,1
+C0179,Neha Gupta,neha.gupta178@email.com,MCA,8.39,4.8,"Tableau, GraphQL, Kubernetes, Deep Learning, Node.js, Rust, Flutter, Java, SQL",9,6,8,Finance,DevOps Engineer,70,74,82,68,56,79,68,1
+C0180,Priya Patel,priya.patel179@email.com,MCA,5.48,5.8,"Spark, JavaScript, Node.js, FastAPI, C++, Kubernetes, Python, Rust, Go",9,5,9,DevOps,DevOps Engineer,74,71,68,76,87,86,69,1
+C0181,Vivek Patel,vivek.patel180@email.com,B.Sc CS,6.6,10.1,"Python, Kubernetes, Selenium",3,7,2,Marketing,Backend Developer,34,69,88,18,66,57,54,0
+C0182,Simran Tiwari,simran.tiwari181@email.com,M.Tech,7.79,4.8,"Spark, Git, SQL, Power BI, NLP, Kubernetes, React, Computer Vision, Flutter, C++",10,1,7,Finance,Frontend Developer,75,81,14,51,45,92,54,0
+C0183,Varun Mehta,varun.mehta182@email.com,MCA,8.8,7.9,"React, NLP, Hadoop, Go, Django, Swift, Redis, Spark",8,5,2,Product,Frontend Developer,74,75,67,12,59,40,63,0
+C0184,Simran Srivastava,simran.srivastava183@email.com,B.Tech,7.29,4.5,"Power BI, AWS, GraphQL, Machine Learning, FastAPI",5,3,7,Engineering,Product Manager,41,65,35,54,95,52,52,0
+C0185,Rohit Gupta,rohit.gupta184@email.com,MCA,8.29,9.3,"Selenium, AWS, Power BI, Python, FastAPI, Flutter, Java, Django, PyTorch, MongoDB, Computer Vision, Tableau",12,2,2,Marketing,Product Manager,96,77,23,17,83,96,69,1
+C0186,Nikhil Shah,nikhil.shah185@email.com,BCA,8.43,3.3,"AWS, Git, GraphQL, Redis, Selenium, Rust, Django, TypeScript, Kubernetes, Hadoop",10,3,10,Marketing,DevOps Engineer,81,59,37,79,88,48,58,0
+C0187,Kavya Agarwal,kavya.agarwal186@email.com,B.Sc CS,9.92,6.7,"Git, MongoDB, TypeScript, Python, FastAPI, React, Power BI, TensorFlow, Node.js",9,0,5,Finance,Software Engineer,68,69,-2,37,88,56,51,0
+C0188,Aditya Mehta,aditya.mehta187@email.com,B.Tech,6.56,9.0,"Machine Learning, NLP, Swift, Computer Vision, FastAPI, Kotlin, Hadoop, Spark, Rust, Docker",10,6,7,HR,Frontend Developer,76,70,79,61,80,43,67,1
+C0189,Siddharth Chauhan,siddharth.chauhan188@email.com,MBA,5.2,10.0,"Git, TensorFlow, Jenkins, MongoDB, NLP, SQL, Go, JavaScript",8,2,2,Data Science,ML Engineer,64,77,29,17,62,75,59,0
+C0190,Manish Sharma,manish.sharma189@email.com,MBA,5.36,4.0,"Docker, C++, React",3,7,9,Data Science,ML Engineer,28,69,95,72,90,60,63,0
+C0191,Kritika Singh,kritika.singh190@email.com,M.Tech,9.98,9.4,"Git, Kotlin, SQL, Rust, Deep Learning, Spark, Machine Learning, Go, Kubernetes, GraphQL, Data Analysis",11,3,9,Engineering,DevOps Engineer,92,86,43,74,97,88,75,1
+C0192,Gaurav Shah,gaurav.shah191@email.com,B.Sc CS,9.01,10.9,"JavaScript, C++, Swift, Deep Learning, TensorFlow, AWS",6,0,6,Product,Backend Developer,52,69,3,51,73,71,52,0
+C0193,Suresh Srivastava,suresh.srivastava192@email.com,B.Tech,5.77,1.0,"Git, Python, Node.js, PyTorch, Go, C++, Swift, Machine Learning, Tableau, Power BI, React",11,6,2,Engineering,Data Scientist,89,67,83,21,74,85,64,0
+C0194,Vikram Verma,vikram.verma193@email.com,BCA,6.95,2.1,"NLP, FastAPI, GraphQL, Swift",4,6,6,HR,Data Scientist,41,63,79,43,52,74,46,0
+C0195,Rohit Singh,rohit.singh194@email.com,B.Sc CS,5.68,4.3,"Redis, SQL, MongoDB, Spark, TensorFlow, Tableau, GraphQL",7,7,9,Product,ML Engineer,51,61,88,70,70,90,65,1
+C0196,Megha Agarwal,megha.agarwal195@email.com,B.Tech,9.26,11.5,"Docker, Deep Learning, JavaScript, Python, MongoDB, Redis, TensorFlow, Django, TypeScript, Selenium, Git",11,5,7,Data Science,Frontend Developer,89,73,63,61,54,50,72,1
+C0197,Siddharth Gupta,siddharth.gupta196@email.com,PhD,7.44,2.2,"Hadoop, Node.js, MongoDB",3,4,4,HR,Backend Developer,21,96,48,36,66,62,45,0
+C0198,Arjun Yadav,arjun.yadav197@email.com,M.Tech,8.56,7.4,"Spark, Go, Redis, Docker, MongoDB, Tableau, Data Analysis, Kotlin, Kubernetes, PyTorch",10,0,4,Finance,DevOps Engineer,80,85,0,30,86,67,60,0
+C0199,Rahul Mishra,rahul.mishra198@email.com,MCA,8.67,10.5,"Redis, Power BI, Machine Learning, Data Analysis, C++, Git, JavaScript, GraphQL",8,2,4,Engineering,Software Engineer,67,77,29,31,85,44,59,0
+C0200,Anjali Mehta,anjali.mehta199@email.com,B.Sc CS,6.98,10.9,"Git, Tableau, Docker, Flutter, TensorFlow, Deep Learning, Spark, Swift, MongoDB, Power BI, Selenium",11,7,9,Finance,ML Engineer,87,64,94,68,77,40,77,1
+C0201,Varun Patel,varun.patel200@email.com,M.Tech,7.35,5.4,"Docker, Tableau, Rust, JavaScript, Deep Learning, Swift, Computer Vision, Jenkins, Power BI, AWS, Data Analysis, TypeScript",12,3,6,Engineering,DevOps Engineer,92,89,42,49,74,96,66,1
+C0202,Arjun Srivastava,arjun.srivastava201@email.com,BCA,8.96,7.6,"Git, Data Analysis, Swift, Selenium, Jenkins, MongoDB, C++, GraphQL, JavaScript, FastAPI, AWS, TensorFlow",12,6,6,Data Science,Data Analyst,98,59,78,50,83,40,76,1
+C0203,Amit Shah,amit.shah202@email.com,MBA,7.41,0.9,"Docker, Data Analysis, Kubernetes, Flutter, Redis, Rust",6,3,6,Marketing,ML Engineer,46,71,40,44,75,70,47,0
+C0204,Nikhil Sharma,nikhil.sharma203@email.com,M.Tech,6.08,2.9,"Kubernetes, AWS, Selenium, JavaScript, Spark, MongoDB, Node.js, Java, SQL, Jenkins, GraphQL, FastAPI",12,0,5,Data Science,Backend Developer,100,89,5,36,83,70,65,1
+C0205,Nikhil Patel,nikhil.patel204@email.com,PhD,9.3,9.5,"Selenium, FastAPI, Kubernetes, Go, Hadoop, NLP, Redis, MongoDB, JavaScript, Deep Learning, TensorFlow, Swift",12,1,4,Finance,ML Engineer,95,89,8,35,77,83,71,1
+C0206,Arjun Kumar,arjun.kumar205@email.com,B.Sc CS,7.7,5.7,"Git, Selenium, Deep Learning",3,7,3,Marketing,Product Manager,21,69,96,28,45,97,54,0
+C0207,Preeti Verma,preeti.verma206@email.com,MCA,8.55,8.4,"Swift, Rust, Machine Learning, TypeScript, Node.js, AWS, Computer Vision, Git, Deep Learning, JavaScript",10,6,4,Engineering,Software Engineer,84,73,77,27,95,40,75,1
+C0208,Vivek Mehta,vivek.mehta207@email.com,BCA,7.07,8.3,"Machine Learning, Docker, TypeScript, FastAPI, AWS, Selenium, Django, PyTorch",8,4,7,Data Science,DevOps Engineer,70,61,57,54,95,75,69,1
+C0209,Simran Saxena,simran.saxena208@email.com,BCA,9.0,3.0,"Kotlin, AWS, Deep Learning, NLP, Power BI, Git, Rust, SQL",8,3,7,Data Science,Product Manager,62,64,42,56,84,84,52,0
+C0210,Aarav Singh,aarav.singh209@email.com,MCA,6.43,9.9,"SQL, Node.js, FastAPI, NLP, Data Analysis, JavaScript, Redis, Java, Flutter",9,6,11,HR,Data Analyst,79,79,82,91,83,43,77,1
+C0211,Gaurav Sharma,gaurav.sharma210@email.com,MBA,9.88,2.4,"TensorFlow, JavaScript, Selenium, NLP, Redis, SQL, Go",7,5,11,Product,Product Manager,52,75,63,83,50,57,58,0
+C0212,Anjali Mehta,anjali.mehta211@email.com,MBA,6.31,6.2,"MongoDB, Rust, Django, NLP",4,7,10,Marketing,Data Scientist,33,68,92,75,71,72,58,0
+C0213,Varun Yadav,varun.yadav212@email.com,B.Tech,9.48,4.1,"Git, FastAPI, Spark, Swift, MongoDB, Computer Vision, Power BI",7,5,11,Engineering,Frontend Developer,58,73,67,90,100,41,68,1
+C0214,Vikram Tiwari,vikram.tiwari213@email.com,M.Tech,8.37,7.6,"C++, GraphQL, Rust, Python, Selenium, Jenkins",6,3,2,Marketing,ML Engineer,51,90,38,17,97,61,57,0
+C0215,Tarun Mishra,tarun.mishra214@email.com,B.Sc CS,5.78,4.2,"TensorFlow, Power BI, Computer Vision, FastAPI, PyTorch",5,3,10,HR,Data Analyst,42,64,37,80,51,47,46,0
+C0216,Aarav Verma,aarav.verma215@email.com,BCA,7.63,10.2,"Power BI, Django, Git, Data Analysis, Swift, Hadoop, FastAPI, AWS",8,3,3,Engineering,DevOps Engineer,71,64,43,19,72,70,65,1
+C0217,Anjali Kumar,anjali.kumar216@email.com,B.Tech,6.35,5.5,"C++, Python, Jenkins, PyTorch, TensorFlow, MongoDB, React, Kubernetes, Data Analysis, Redis",10,2,5,Data Science,Data Analyst,83,73,29,38,84,61,62,0
+C0218,Shruti Mehta,shruti.mehta217@email.com,PhD,7.16,5.0,"Kotlin, Django, Spark, Data Analysis, MongoDB, Node.js, Tableau, Go",8,1,4,Finance,ML Engineer,66,92,12,35,69,52,53,0
+C0219,Tarun Sharma,tarun.sharma218@email.com,MCA,9.19,2.1,"Git, C++, Power BI, Redis, AWS, Django, TypeScript, MongoDB, Java, TensorFlow, React",11,0,5,Product,DevOps Engineer,88,72,-2,42,51,68,52,0
+C0220,Preeti Joshi,preeti.joshi219@email.com,MCA,7.32,4.1,"TensorFlow, Data Analysis, MongoDB, Rust, Kubernetes, Go, FastAPI, Computer Vision",8,1,10,HR,DevOps Engineer,73,71,14,79,54,95,55,0
+C0221,Nikhil Tiwari,nikhil.tiwari220@email.com,B.Tech,7.6,10.2,"Go, NLP, C++, MongoDB, Django",5,4,6,Data Science,Software Engineer,47,66,54,52,73,66,59,0
+C0222,Rahul Shah,rahul.shah221@email.com,MBA,8.82,7.9,"Kubernetes, Kotlin, Machine Learning, Selenium, JavaScript, Hadoop",6,0,7,Marketing,ML Engineer,58,68,-5,59,50,46,50,0
+C0223,Ananya Tiwari,ananya.tiwari222@email.com,M.Tech,9.85,3.7,"AWS, Git, Kubernetes, Java, Power BI, Go, Data Analysis, TypeScript, Selenium, Computer Vision",10,4,8,Marketing,Data Analyst,89,84,55,61,89,74,68,1
+C0224,Shruti Srivastava,shruti.srivastava223@email.com,B.Sc CS,9.08,7.7,"Tableau, NLP, SQL, Spark, Docker, Data Analysis, PyTorch, AWS",8,4,1,Product,Data Analyst,63,64,47,11,99,48,59,0
+C0225,Harsh Sharma,harsh.sharma224@email.com,MCA,6.97,8.3,"Python, TypeScript, MongoDB, NLP, Kotlin, Git, Django",7,3,9,Finance,Product Manager,62,77,40,73,55,85,65,1
+C0226,Karan Joshi,karan.joshi225@email.com,MBA,7.46,1.0,"Django, MongoDB, Git, GraphQL, Machine Learning, TypeScript, JavaScript, SQL, Node.js, Docker, React",11,7,12,Engineering,Software Engineer,97,70,90,100,65,41,69,1
+C0227,Neha Gupta,neha.gupta226@email.com,M.Tech,6.56,3.4,"NLP, SQL, Docker",3,7,6,DevOps,Software Engineer,19,87,89,49,96,71,58,0
+C0228,Nisha Singh,nisha.singh227@email.com,M.Tech,6.92,10.1,"Kotlin, Node.js, Tableau, Data Analysis, Machine Learning, Spark, GraphQL",7,6,2,Data Science,Data Analyst,59,80,73,14,73,55,61,0
+C0229,Arjun Srivastava,arjun.srivastava228@email.com,M.Tech,6.8,8.0,"Redis, C++, Kubernetes, JavaScript, Flutter, Hadoop, Django, FastAPI, React",9,7,5,Engineering,Backend Developer,75,87,96,38,48,95,72,1
+C0230,Shruti Mishra,shruti.mishra229@email.com,PhD,5.46,0.2,"Deep Learning, Kotlin, Computer Vision, Python, Java, MongoDB, Jenkins, Rust, Selenium, TypeScript, Redis, Node.js",12,1,3,Engineering,DevOps Engineer,100,91,11,26,84,61,55,0
+C0231,Pooja Gupta,pooja.gupta230@email.com,M.Tech,8.49,1.5,"Rust, Spark, TensorFlow, Java, Git, Selenium, Data Analysis, Flutter, Node.js, AWS, Power BI",11,7,5,Marketing,DevOps Engineer,98,85,94,43,57,76,69,1
+C0232,Suresh Chauhan,suresh.chauhan231@email.com,PhD,8.88,3.3,"Kubernetes, Node.js, Docker, Spark, Selenium, GraphQL, AWS, Django, Data Analysis, NLP, Python",11,2,10,HR,Product Manager,95,96,21,80,60,60,64,0
+C0233,Siddharth Srivastava,siddharth.srivastava232@email.com,PhD,6.01,8.2,"MongoDB, C++, GraphQL, Deep Learning, Machine Learning",5,0,3,Engineering,Product Manager,37,95,-3,19,76,52,46,0
+C0234,Pallavi Srivastava,pallavi.srivastava233@email.com,B.Sc CS,7.34,7.5,"Flutter, NLP, Node.js",3,3,8,Marketing,Product Manager,19,64,44,60,85,43,50,0
+C0235,Preeti Verma,preeti.verma234@email.com,BCA,5.95,9.9,"Node.js, Redis, PyTorch",3,1,9,Marketing,ML Engineer,22,63,11,73,78,82,49,0
+C0236,Simran Pandey,simran.pandey235@email.com,PhD,9.96,9.0,"Rust, Hadoop, TypeScript, Machine Learning, SQL, Kotlin, Tableau, Django, TensorFlow, FastAPI, Kubernetes, Go",12,7,6,DevOps,Product Manager,96,97,91,51,65,94,85,1
+C0237,Suresh Shah,suresh.shah236@email.com,M.Tech,9.92,6.8,"FastAPI, Flutter, Spark, Selenium, Tableau, TensorFlow, Python, Jenkins, Java, Docker, Redis",11,2,1,Engineering,Frontend Developer,83,86,25,7,58,94,62,0
+C0238,Simran Srivastava,simran.srivastava237@email.com,B.Sc CS,6.16,6.7,"JavaScript, Hadoop, Rust, Docker",4,4,10,Marketing,Product Manager,31,62,52,78,96,59,53,0
+C0239,Riya Singh,riya.singh238@email.com,PhD,7.08,8.7,"Power BI, Machine Learning, Redis, JavaScript, Swift",5,0,6,HR,Software Engineer,37,94,0,49,100,47,54,0
+C0240,Vivek Verma,vivek.verma239@email.com,B.Tech,5.74,3.7,"Docker, C++, Selenium, NLP, Node.js, Java, Go, Flutter, TensorFlow, Power BI, Swift",11,3,5,Marketing,Software Engineer,85,70,40,41,66,45,61,0
+C0241,Simran Tiwari,simran.tiwari240@email.com,MCA,6.62,3.2,"AWS, Git, Tableau, TensorFlow, Computer Vision, Power BI, C++, MongoDB, Machine Learning",9,3,5,HR,Product Manager,74,78,35,41,81,45,54,0
+C0242,Shruti Agarwal,shruti.agarwal241@email.com,BCA,8.79,4.2,"Java, Redis, Kubernetes, Rust, Jenkins, GraphQL, Kotlin, NLP, Tableau, Node.js, TypeScript, Git",12,3,6,HR,Software Engineer,98,60,44,45,99,45,61,0
+C0243,Divya Patel,divya.patel242@email.com,PhD,8.7,10.4,"Go, Deep Learning, Redis",3,7,6,Marketing,Frontend Developer,33,91,86,46,58,53,68,0
+C0244,Simran Saxena,simran.saxena243@email.com,M.Tech,8.95,7.5,"Swift, Jenkins, JavaScript",3,2,5,DevOps,Software Engineer,27,90,21,38,84,57,47,0
+C0245,Vikram Tiwari,vikram.tiwari244@email.com,MBA,5.44,7.9,"Machine Learning, Java, MongoDB, Swift, Deep Learning, TensorFlow, FastAPI, Rust",8,5,10,Marketing,Software Engineer,62,77,67,83,57,72,71,1
+C0246,Rohit Shah,rohit.shah245@email.com,BCA,9.45,11.1,"Kotlin, Kubernetes, Java, Rust, Go, Data Analysis, Hadoop, C++, Docker, Deep Learning",10,0,5,Product,Backend Developer,83,60,5,41,97,41,66,1
+C0247,Pooja Mishra,pooja.mishra246@email.com,MBA,6.65,10.8,"Swift, Jenkins, NLP, GraphQL",4,2,5,HR,ML Engineer,34,69,27,44,79,48,53,0
+C0248,Harsh Mehta,harsh.mehta247@email.com,BCA,8.83,10.4,"TypeScript, Docker, Kubernetes, C++, Node.js",5,2,3,DevOps,Frontend Developer,38,63,26,19,71,66,50,0
+C0249,Pooja Mehta,pooja.mehta248@email.com,M.Tech,7.37,1.3,"Django, NLP, Jenkins, Selenium, Go, Python, Data Analysis, JavaScript, Rust, Swift, Computer Vision, Node.js",12,5,7,Engineering,Product Manager,100,80,62,58,55,52,64,0
+C0250,Aarav Joshi,aarav.joshi249@email.com,M.Tech,7.02,11.4,"PyTorch, Node.js, Data Analysis, Spark, TypeScript, Redis",6,5,4,HR,DevOps Engineer,58,90,67,33,47,78,70,1
+C0251,Anjali Srivastava,anjali.srivastava250@email.com,MBA,6.99,7.7,"Machine Learning, Spark, Hadoop, JavaScript, Jenkins, Deep Learning, FastAPI, Django, TensorFlow, Flutter, Java",11,0,5,DevOps,ML Engineer,95,67,-2,42,64,89,61,0
+C0252,Shruti Yadav,shruti.yadav251@email.com,B.Tech,7.25,7.4,"Hadoop, Spark, SQL, Selenium, Deep Learning",5,2,7,DevOps,Data Scientist,40,73,27,56,56,69,51,0
+C0253,Manish Mishra,manish.mishra252@email.com,MBA,6.89,8.3,"SQL, Deep Learning, Spark, Flutter",4,6,10,Product,ML Engineer,29,69,81,77,69,42,57,0
+C0254,Amit Patel,amit.patel253@email.com,MBA,9.28,2.1,"Redis, Git, Spark, MongoDB, C++, SQL, React, Node.js, Machine Learning",9,4,8,Marketing,Data Analyst,67,67,47,66,79,91,54,0
+C0255,Divya Mehta,divya.mehta254@email.com,MCA,8.27,7.1,"Spark, SQL, Python, Computer Vision, Git, Django, AWS, Redis, C++",9,0,3,HR,Frontend Developer,73,77,-3,19,47,49,46,0
+C0256,Nisha Singh,nisha.singh255@email.com,MCA,9.1,0.6,"MongoDB, Data Analysis, Hadoop, Flutter, JavaScript",5,4,6,Engineering,Frontend Developer,37,72,52,49,93,67,53,0
+C0257,Tarun Patel,tarun.patel256@email.com,PhD,7.14,1.5,"Jenkins, GraphQL, PyTorch, Selenium, Redis, Java, React, MongoDB",8,7,12,Marketing,DevOps Engineer,61,91,95,95,99,60,71,1
+C0258,Rahul Saxena,rahul.saxena257@email.com,MBA,5.23,6.2,"Data Analysis, NLP, MongoDB, TensorFlow, Python, React, Tableau, Jenkins, C++, Kotlin",10,3,7,Engineering,Backend Developer,78,74,43,57,67,75,63,0
+C0259,Aditya Joshi,aditya.joshi258@email.com,BCA,9.58,9.5,"C++, Python, Deep Learning, Go, Kubernetes, TensorFlow, Flutter, MongoDB, Redis, Jenkins, SQL",11,5,11,DevOps,ML Engineer,89,59,65,90,96,42,73,1
+C0260,Sakshi Mishra,sakshi.mishra259@email.com,PhD,9.0,5.5,"Jenkins, Redis, C++",3,3,11,Data Science,Frontend Developer,19,93,43,88,95,62,54,0
+C0261,Priya Mishra,priya.mishra260@email.com,MBA,9.39,11.8,"Swift, Data Analysis, Deep Learning, Redis, C++",5,4,2,Data Science,Frontend Developer,36,75,53,18,68,68,58,0
+C0262,Neha Gupta,neha.gupta261@email.com,B.Tech,6.55,4.5,"Spark, Selenium, Java, Tableau",4,3,8,Finance,ML Engineer,31,68,39,67,65,49,45,0
+C0263,Riya Verma,riya.verma262@email.com,MBA,8.83,5.5,"Python, Redis, JavaScript, SQL",4,7,2,Marketing,Frontend Developer,37,75,86,19,92,59,53,0
+C0264,Riya Mishra,riya.mishra263@email.com,BCA,6.59,2.4,"C++, Spark, Deep Learning, Django, Node.js, SQL, AWS, React, Python, Redis, Power BI",11,3,6,Marketing,Backend Developer,86,59,42,51,54,100,57,0
+C0265,Amit Singh,amit.singh264@email.com,BCA,9.46,3.7,"React, AWS, Java, Tableau, Spark, Go, Selenium, Git, TensorFlow, Power BI",10,6,3,Marketing,DevOps Engineer,77,63,79,28,85,93,67,1
+C0266,Megha Mishra,megha.mishra265@email.com,MBA,9.31,9.8,"SQL, Hadoop, AWS, Git, GraphQL, Kotlin, Rust, NLP, React, TypeScript, Docker",11,7,4,DevOps,ML Engineer,97,77,89,29,84,56,79,1
+C0267,Nisha Mishra,nisha.mishra266@email.com,B.Tech,6.63,5.4,"Deep Learning, Rust, Tableau, Hadoop, TypeScript, SQL, Docker, Swift, Data Analysis, Redis",10,1,12,Marketing,Data Analyst,79,66,14,92,86,44,61,0
+C0268,Anjali Pandey,anjali.pandey267@email.com,M.Tech,8.47,2.9,"Tableau, Swift, Node.js, Go, PyTorch",5,6,6,HR,Data Analyst,48,88,82,51,56,82,57,0
+C0269,Kavya Chauhan,kavya.chauhan268@email.com,B.Tech,5.45,3.9,"Redis, Kotlin, Node.js, Machine Learning, Swift",5,7,11,Finance,ML Engineer,45,72,96,83,97,48,61,0
+C0270,Pooja Chauhan,pooja.chauhan269@email.com,MCA,9.24,6.4,"Spark, TensorFlow, PyTorch, C++, Docker, MongoDB, Kotlin, Go, Tableau, Selenium, Rust, Data Analysis",12,0,9,Product,Software Engineer,93,79,4,73,99,58,63,0
+C0271,Aarav Agarwal,aarav.agarwal270@email.com,BCA,5.7,1.3,"TypeScript, Kotlin, C++, Swift, TensorFlow, Tableau",6,3,3,Finance,Product Manager,56,55,44,26,80,64,47,0
+C0272,Pooja Yadav,pooja.yadav271@email.com,MBA,9.03,12.0,"Python, Node.js, Java, Docker, Power BI",5,2,3,Marketing,ML Engineer,48,69,22,29,100,69,61,0
+C0273,Sakshi Srivastava,sakshi.srivastava272@email.com,PhD,6.83,5.1,"Rust, NLP, Data Analysis, TypeScript, Redis, Python, MongoDB, Computer Vision, Flutter",9,4,9,HR,DevOps Engineer,74,94,53,76,47,76,70,1
+C0274,Kavya Saxena,kavya.saxena273@email.com,B.Tech,7.34,11.5,"Django, Hadoop, SQL, Selenium, Deep Learning, Computer Vision, C++, Flutter, Go, GraphQL, JavaScript",11,0,9,Marketing,DevOps Engineer,92,67,0,67,77,97,72,1
+C0275,Nikhil Agarwal,nikhil.agarwal274@email.com,PhD,5.14,11.5,"Kubernetes, JavaScript, Redis, FastAPI, Java, C++, Computer Vision",7,0,5,Marketing,Data Scientist,56,91,5,44,76,45,59,0
+C0276,Swati Joshi,swati.joshi275@email.com,BCA,9.0,1.6,"Python, Deep Learning, Data Analysis, Docker, Go, NLP, Selenium",7,4,8,Engineering,ML Engineer,56,59,50,61,100,42,54,0
+C0277,Pooja Saxena,pooja.saxena276@email.com,MCA,6.99,9.0,"Spark, Kubernetes, PyTorch, Rust, Java, C++",6,1,3,Data Science,Product Manager,51,76,8,26,64,70,56,0
+C0278,Vivek Saxena,vivek.saxena277@email.com,B.Sc CS,6.77,3.2,"MongoDB, Spark, Swift",3,0,9,Product,Frontend Developer,29,66,-4,77,99,67,44,0
+C0279,Swati Gupta,swati.gupta278@email.com,B.Sc CS,8.43,3.1,"Computer Vision, TensorFlow, Go, Data Analysis, Kubernetes, Django, Python, Selenium, Spark, JavaScript",10,6,9,Product,Backend Developer,75,66,74,68,67,54,62,0
+C0280,Rohit Sharma,rohit.sharma279@email.com,B.Tech,7.33,7.4,"Deep Learning, Git, SQL, AWS, TensorFlow, Go",6,1,5,Product,Product Manager,48,74,10,39,49,80,52,0
+C0281,Suresh Joshi,suresh.joshi280@email.com,B.Tech,7.46,1.9,"Swift, Go, React",3,4,8,Data Science,Data Analyst,27,69,49,60,57,79,47,0
+C0282,Arjun Patel,arjun.patel281@email.com,MCA,5.0,6.5,"Machine Learning, Spark, FastAPI, Git, Java, JavaScript, Hadoop, MongoDB, Flutter, AWS, Swift, NLP",12,7,11,Product,ML Engineer,91,73,88,93,47,82,78,1
+C0283,Nisha Tiwari,nisha.tiwari282@email.com,B.Sc CS,7.0,6.9,"TypeScript, Kotlin, Node.js, NLP, Python, TensorFlow, Rust, GraphQL, Swift, Computer Vision",10,5,11,Product,DevOps Engineer,78,67,65,87,85,81,69,1
+C0284,Ananya Chauhan,ananya.chauhan283@email.com,BCA,7.43,9.1,"Data Analysis, JavaScript, Swift, TensorFlow, Docker, Rust",6,1,12,Data Science,Software Engineer,55,65,18,96,85,68,60,0
+C0285,Siddharth Sharma,siddharth.sharma284@email.com,B.Sc CS,7.03,8.6,"Swift, Node.js, Redis, Power BI, Django, GraphQL, Kotlin, NLP, Python, Java",10,0,12,DevOps,ML Engineer,85,63,0,91,58,91,67,1
+C0286,Karan Singh,karan.singh285@email.com,M.Tech,9.52,0.4,"Tableau, JavaScript, Computer Vision",3,0,11,DevOps,ML Engineer,23,87,-3,83,97,90,42,0
+C0287,Vikram Gupta,vikram.gupta286@email.com,B.Sc CS,7.73,1.4,"Node.js, TensorFlow, TypeScript, Go, Kotlin, GraphQL",6,5,11,Finance,Software Engineer,55,69,61,92,65,93,57,0
+C0288,Neha Mishra,neha.mishra287@email.com,BCA,5.4,0.8,"Kubernetes, Flutter, Git, Spark, Deep Learning, Hadoop, MongoDB, Java, Node.js",9,6,1,HR,Frontend Developer,70,57,75,10,45,51,46,0
+C0289,Nikhil Saxena,nikhil.saxena288@email.com,M.Tech,8.14,8.3,"Jenkins, Spark, GraphQL, Computer Vision, Tableau, SQL, Redis",7,2,10,DevOps,Software Engineer,52,82,28,76,95,59,64,0
+C0290,Simran Shah,simran.shah289@email.com,B.Sc CS,8.35,2.3,"Flutter, Selenium, NLP, Hadoop, Swift, C++, Go, Machine Learning, AWS, Java, TypeScript, React",12,7,3,Product,Backend Developer,95,61,93,21,47,43,62,0
+C0291,Shruti Joshi,shruti.joshi290@email.com,PhD,5.58,4.0,"Machine Learning, React, Git",3,2,8,Marketing,DevOps Engineer,24,94,21,67,60,86,52,0
+C0292,Nikhil Mehta,nikhil.mehta291@email.com,BCA,7.35,9.0,"C++, NLP, Machine Learning, Computer Vision",4,3,4,Data Science,Backend Developer,40,58,40,28,76,43,52,0
+C0293,Sakshi Kumar,sakshi.kumar292@email.com,M.Tech,7.29,4.6,"Rust, Django, TensorFlow, Go, Node.js, Java",6,4,2,Data Science,Frontend Developer,44,87,49,18,55,88,53,0
+C0294,Amit Kumar,amit.kumar293@email.com,B.Sc CS,8.68,6.9,"GraphQL, Jenkins, Power BI, PyTorch",4,7,1,DevOps,Backend Developer,42,63,90,9,60,55,55,0
+C0295,Pooja Sharma,pooja.sharma294@email.com,B.Tech,8.77,5.0,"Selenium, JavaScript, TypeScript, Kotlin, Computer Vision, Power BI, Hadoop, Rust, GraphQL, React",10,7,2,Data Science,ML Engineer,89,65,89,19,89,86,71,1
+C0296,Rajesh Yadav,rajesh.yadav295@email.com,B.Tech,5.01,2.9,"Redis, Kubernetes, Hadoop, Java, NLP, Tableau, Swift, Node.js, Rust, TensorFlow",10,5,8,HR,DevOps Engineer,80,65,70,69,85,44,66,1
+C0297,Kritika Verma,kritika.verma296@email.com,PhD,6.83,3.6,"Git, PyTorch, SQL, Go, Flutter, Hadoop, Java, FastAPI, Power BI, Data Analysis, Spark, React",12,5,10,HR,Data Scientist,100,91,67,75,56,81,78,1
+C0298,Simran Mehta,simran.mehta297@email.com,BCA,7.26,1.7,"Deep Learning, Tableau, PyTorch, NLP, Kubernetes, Data Analysis, Spark, AWS, FastAPI, Go, Selenium",11,0,6,DevOps,Frontend Developer,91,58,-4,48,77,73,48,0
+C0299,Gaurav Agarwal,gaurav.agarwal298@email.com,MBA,5.56,9.6,"Hadoop, SQL, Jenkins, Kotlin, Spark, Selenium",6,1,3,Finance,Backend Developer,52,68,9,23,54,71,48,0
+C0300,Kritika Sharma,kritika.sharma299@email.com,MBA,9.17,3.5,"Tableau, Rust, GraphQL, Spark, Java",5,3,1,DevOps,DevOps Engineer,44,75,35,6,78,81,48,0
+C0301,Suresh Saxena,suresh.saxena300@email.com,MBA,6.77,7.1,"Spark, Hadoop, Redis, AWS, Git, Kotlin, Docker, SQL, Jenkins, Power BI, Deep Learning",11,5,1,HR,Frontend Developer,98,75,64,5,74,50,66,1
+C0302,Neha Kumar,neha.kumar301@email.com,MBA,6.03,10.1,"Kubernetes, Computer Vision, Deep Learning, JavaScript, C++",5,7,6,Product,ML Engineer,39,77,90,45,90,42,67,1
+C0303,Preeti Chauhan,preeti.chauhan302@email.com,M.Tech,9.88,6.5,"Deep Learning, Java, Kotlin, Power BI, Swift, Node.js, NLP",7,2,12,DevOps,Frontend Developer,61,88,21,99,66,81,64,0
+C0304,Pooja Chauhan,pooja.chauhan303@email.com,B.Tech,6.79,4.1,"AWS, Deep Learning, Redis",3,6,4,Marketing,Backend Developer,19,72,82,34,65,43,47,0
+C0305,Swati Mehta,swati.mehta304@email.com,B.Sc CS,5.74,0.3,"Selenium, Kotlin, TensorFlow, Power BI",4,0,6,DevOps,DevOps Engineer,37,67,5,49,99,67,42,0
+C0306,Aarav Yadav,aarav.yadav305@email.com,BCA,5.72,4.1,"SQL, PyTorch, Spark, GraphQL, Kotlin, NLP, Docker, Git, Tableau, Flutter, Jenkins",11,2,10,Product,Data Scientist,96,62,30,76,64,70,67,1
+C0307,Vivek Singh,vivek.singh306@email.com,MBA,7.47,0.1,"Data Analysis, Hadoop, AWS, TensorFlow, SQL, GraphQL, Power BI, Docker, Django",9,0,10,Engineering,Software Engineer,82,71,-1,79,92,69,54,0
+C0308,Pooja Joshi,pooja.joshi307@email.com,MBA,8.73,3.6,"Deep Learning, MongoDB, GraphQL, Data Analysis, Computer Vision, Hadoop, Rust, C++, Git, Python",10,4,2,Finance,Frontend Developer,78,77,54,20,82,70,63,0
+C0309,Tarun Gupta,tarun.gupta308@email.com,MBA,6.79,4.5,"FastAPI, Kubernetes, React",3,5,12,DevOps,DevOps Engineer,23,76,67,93,48,57,54,0
+C0310,Sneha Yadav,sneha.yadav309@email.com,MBA,6.76,3.5,"TensorFlow, Data Analysis, Machine Learning, Kubernetes, Django, Power BI, TypeScript, Hadoop, GraphQL, Go, Docker",11,5,9,Marketing,Frontend Developer,91,68,61,76,54,40,62,0
+C0311,Preeti Saxena,preeti.saxena310@email.com,M.Tech,9.09,4.9,"Docker, Selenium, NLP, TensorFlow, Kotlin, Spark",6,6,2,Product,DevOps Engineer,46,81,80,12,46,70,55,0
+C0312,Rahul Chauhan,rahul.chauhan311@email.com,B.Sc CS,5.65,10.7,"Data Analysis, Redis, Java, Deep Learning, Power BI, Node.js, TypeScript, Rust",8,3,3,Engineering,Software Engineer,63,68,38,22,50,67,55,0
+C0313,Tarun Pandey,tarun.pandey312@email.com,B.Tech,8.35,0.5,"React, Tableau, Deep Learning, FastAPI, Java, JavaScript, Docker, Go, Python, Swift, Git",11,3,4,Finance,Frontend Developer,86,65,43,29,46,45,49,0
+C0314,Rajesh Agarwal,rajesh.agarwal313@email.com,B.Sc CS,9.87,1.9,"Selenium, Node.js, Machine Learning, Python, FastAPI, Git",6,4,9,Marketing,Data Analyst,49,69,49,67,51,99,51,0
+C0315,Preeti Kumar,preeti.kumar314@email.com,B.Tech,7.48,5.3,"Swift, TypeScript, PyTorch, NLP, Selenium, React, Git, Kubernetes",8,7,9,Marketing,Software Engineer,62,67,87,69,68,85,66,1
+C0316,Ananya Mishra,ananya.mishra315@email.com,MCA,7.46,5.9,"Redis, Spark, NLP, GraphQL, Docker, TypeScript, PyTorch, Machine Learning, JavaScript, Kotlin",10,5,1,Marketing,Data Scientist,90,74,62,13,51,65,66,1
+C0317,Kavya Patel,kavya.patel316@email.com,MBA,6.16,4.7,"Kubernetes, Node.js, Flutter, TensorFlow",4,3,7,Product,Frontend Developer,37,76,43,52,72,86,56,0
+C0318,Anjali Agarwal,anjali.agarwal317@email.com,B.Sc CS,9.15,5.7,"Selenium, Django, Docker, Hadoop, React, Tableau, AWS, Computer Vision, TypeScript, Deep Learning",10,0,12,Data Science,Product Manager,79,66,-4,91,76,83,56,0
+C0319,Suresh Patel,suresh.patel318@email.com,B.Sc CS,7.71,3.6,"Jenkins, Power BI, Hadoop, TensorFlow",4,7,9,Marketing,Software Engineer,36,61,93,71,96,95,64,0
+C0320,Rohit Pandey,rohit.pandey319@email.com,B.Tech,6.56,10.6,"C++, Swift, Spark, Hadoop, Java, Tableau, SQL, Django, Go, Jenkins",10,2,7,Marketing,Data Analyst,84,71,28,53,69,71,64,0
+C0321,Simran Saxena,simran.saxena320@email.com,PhD,5.64,5.7,"React, Kotlin, FastAPI, Power BI, MongoDB, TensorFlow, Redis, Go, Data Analysis, Swift, Docker",11,0,10,Finance,DevOps Engineer,93,89,-5,75,68,62,60,0
+C0322,Vivek Gupta,vivek.gupta321@email.com,BCA,5.1,5.1,"React, Computer Vision, Jenkins, Selenium, C++, Docker, MongoDB, JavaScript",8,4,6,HR,Product Manager,61,61,48,45,65,42,56,0
+C0323,Varun Pandey,varun.pandey322@email.com,MBA,6.7,3.2,"Java, C++, Swift, Selenium, Kubernetes, MongoDB, React, Kotlin, Computer Vision, Spark, Rust, Go",12,5,9,DevOps,Backend Developer,97,74,67,77,84,59,72,1
+C0324,Pallavi Singh,pallavi.singh323@email.com,B.Sc CS,5.34,10.1,"FastAPI, React, Redis, Kotlin, Power BI, Deep Learning, Selenium",7,1,6,DevOps,Backend Developer,53,63,17,47,96,73,61,0
+C0325,Rajesh Singh,rajesh.singh324@email.com,BCA,9.31,7.8,"TypeScript, C++, TensorFlow, GraphQL, Selenium, AWS, Redis",7,2,11,HR,Data Analyst,65,63,21,91,81,71,61,0
+C0326,Swati Pandey,swati.pandey325@email.com,MBA,8.83,11.2,"Jenkins, TensorFlow, Flutter",3,2,3,Product,Data Scientist,33,77,24,29,99,67,58,0
+C0327,Riya Pandey,riya.pandey326@email.com,BCA,7.43,3.2,"FastAPI, Computer Vision, Kotlin, Deep Learning, Docker",5,0,5,Data Science,ML Engineer,41,65,-2,42,72,67,37,0
+C0328,Swati Patel,swati.patel327@email.com,PhD,9.43,0.3,"Data Analysis, JavaScript, Power BI, Java, Selenium, TypeScript, Spark, Jenkins, Kubernetes, Redis, Docker",11,6,11,Data Science,Data Scientist,85,91,78,93,70,100,70,0
+C0329,Varun Gupta,varun.gupta328@email.com,PhD,5.53,6.3,"FastAPI, Power BI, SQL, Computer Vision, Redis, React, Swift, Kotlin, Kubernetes, GraphQL, MongoDB",11,3,4,DevOps,Frontend Developer,95,96,40,29,58,57,71,1
+C0330,Sneha Saxena,sneha.saxena329@email.com,MBA,9.11,6.4,"Git, TypeScript, Tableau, Computer Vision, Selenium, AWS, Spark, Kotlin",8,5,12,Finance,Software Engineer,63,68,67,96,46,81,61,0
+C0331,Divya Joshi,divya.joshi330@email.com,BCA,9.3,6.6,"Deep Learning, Computer Vision, Spark, Swift, Python, Hadoop, TensorFlow, AWS",8,1,5,HR,DevOps Engineer,68,65,11,38,55,98,56,0
+C0332,Nikhil Verma,nikhil.verma331@email.com,B.Tech,8.69,3.3,"GraphQL, Go, TypeScript, Machine Learning, Git, SQL, Rust, AWS, FastAPI, JavaScript",10,6,12,Finance,Software Engineer,86,72,82,99,74,84,69,1
+C0333,Neha Chauhan,neha.chauhan332@email.com,M.Tech,9.37,9.5,"TensorFlow, Redis, C++, SQL, React, Power BI, Deep Learning, FastAPI, Rust",9,6,8,HR,DevOps Engineer,71,80,78,66,53,56,69,1
+C0334,Aditya Mehta,aditya.mehta333@email.com,BCA,8.51,1.0,"Swift, NLP, Java, Selenium, Hadoop, Django, C++, Redis, Spark",9,1,4,Marketing,Product Manager,74,57,15,31,55,43,46,0
+C0335,Manish Patel,manish.patel334@email.com,BCA,7.16,1.1,"Deep Learning, Python, TypeScript, Hadoop, GraphQL, Go, Computer Vision, React, Git, Rust, Machine Learning, Swift",12,4,7,Finance,Frontend Developer,99,57,54,53,58,78,59,0
+C0336,Siddharth Pandey,siddharth.pandey335@email.com,PhD,8.24,2.2,"MongoDB, FastAPI, Computer Vision",3,3,10,Data Science,DevOps Engineer,33,89,39,85,50,40,53,0
+C0337,Anjali Mehta,anjali.mehta336@email.com,MBA,6.9,8.6,"FastAPI, Node.js, Machine Learning, React, Java, Kubernetes, Deep Learning, Computer Vision, Data Analysis, Redis, Go, Kotlin",12,0,9,Data Science,Software Engineer,92,73,-1,76,70,82,67,1
+C0338,Neha Joshi,neha.joshi337@email.com,MCA,9.51,2.0,"AWS, SQL, C++, TypeScript, Node.js, Git, React, Kubernetes, Java, Tableau",10,4,7,Marketing,DevOps Engineer,90,75,52,55,61,79,63,0
+C0339,Shruti Kumar,shruti.kumar338@email.com,MCA,7.21,3.8,"Spark, React, TensorFlow, Docker, Java, Deep Learning, SQL, Tableau, Computer Vision, AWS, Git",11,6,8,DevOps,Data Analyst,97,72,74,59,90,75,75,1
+C0340,Kavya Patel,kavya.patel339@email.com,B.Tech,7.08,1.5,"Data Analysis, Kubernetes, Selenium, Django, MongoDB, Spark, Go",7,0,10,HR,Data Scientist,57,68,3,77,49,55,48,0
+C0341,Nisha Sharma,nisha.sharma340@email.com,MBA,8.29,3.4,"Flutter, Machine Learning, C++, Docker, Python, JavaScript, NLP, GraphQL, Rust",9,7,5,Product,ML Engineer,82,68,96,44,66,42,68,1
+C0342,Riya Verma,riya.verma341@email.com,BCA,5.45,9.6,"Node.js, Swift, SQL",3,4,4,DevOps,Product Manager,31,60,49,33,99,53,52,0
+C0343,Aditya Patel,aditya.patel342@email.com,MCA,8.0,1.4,"AWS, Rust, Machine Learning, Flutter, FastAPI, Selenium, Computer Vision",7,6,5,Finance,DevOps Engineer,65,76,80,44,50,88,60,0
+C0344,Neha Pandey,neha.pandey343@email.com,B.Tech,6.5,7.6,"Go, Hadoop, NLP, Docker, Jenkins, Computer Vision, FastAPI, C++, TypeScript, Spark, JavaScript",11,7,2,Finance,Backend Developer,92,65,92,18,53,83,70,1
+C0345,Kritika Pandey,kritika.pandey344@email.com,B.Tech,9.06,3.5,"JavaScript, Selenium, Machine Learning, TypeScript",4,1,11,Finance,Software Engineer,40,73,15,92,67,56,46,0
+C0346,Kavya Chauhan,kavya.chauhan345@email.com,M.Tech,9.04,2.2,"SQL, GraphQL, Redis",3,7,8,Data Science,ML Engineer,29,86,96,68,66,98,57,0
+C0347,Ananya Joshi,ananya.joshi346@email.com,B.Tech,8.45,10.5,"Java, Python, Kotlin, Deep Learning, Jenkins, SQL, C++, Computer Vision, NLP, Rust, TensorFlow",11,4,10,Finance,Frontend Developer,98,71,56,80,89,83,82,1
+C0348,Ananya Patel,ananya.patel347@email.com,M.Tech,9.21,1.6,"TensorFlow, Java, PyTorch",3,2,4,Data Science,Data Scientist,34,81,31,33,99,90,52,0
+C0349,Megha Chauhan,megha.chauhan348@email.com,MCA,6.01,1.8,"Kubernetes, Docker, Spark, Power BI",4,0,10,Engineering,DevOps Engineer,42,70,2,78,81,93,49,0
+C0350,Aarav Gupta,aarav.gupta349@email.com,MBA,7.11,7.6,"Power BI, MongoDB, JavaScript, Git, TensorFlow, Computer Vision, FastAPI, Jenkins, Flutter",9,3,9,Product,Product Manager,82,73,34,67,65,75,63,0
+C0351,Tarun Gupta,tarun.gupta350@email.com,MBA,7.34,5.9,"TypeScript, Java, Kubernetes, MongoDB, Flutter, Machine Learning, Computer Vision, Data Analysis, NLP, Deep Learning",10,5,12,DevOps,DevOps Engineer,82,72,69,100,63,86,74,1
+C0352,Tarun Kumar,tarun.kumar351@email.com,BCA,10.0,7.5,"AWS, Data Analysis, TensorFlow, Kubernetes, Redis, Computer Vision, React, Kotlin, PyTorch, Hadoop",10,3,9,Product,ML Engineer,84,56,37,67,67,96,64,0
+C0353,Neha Srivastava,neha.srivastava352@email.com,B.Tech,8.02,0.4,"Deep Learning, NLP, Git, Jenkins, Computer Vision, AWS, Kubernetes, Kotlin, Data Analysis",9,4,12,DevOps,Data Analyst,68,70,49,99,51,85,54,0
+C0354,Kavya Gupta,kavya.gupta353@email.com,B.Sc CS,5.77,9.4,"JavaScript, Selenium, Machine Learning, Kubernetes, C++, React, TypeScript, Jenkins, Data Analysis, SQL, Flutter",11,7,8,Engineering,Backend Developer,92,61,94,60,68,61,74,1
+C0355,Gaurav Pandey,gaurav.pandey354@email.com,B.Tech,8.94,9.2,"Go, MongoDB, Selenium, Kubernetes, JavaScript, AWS, Data Analysis, Rust, Swift, PyTorch",10,3,9,DevOps,Product Manager,86,68,36,73,53,91,70,1
+C0356,Sakshi Srivastava,sakshi.srivastava355@email.com,BCA,5.75,9.5,"Docker, Python, Node.js, SQL, Kubernetes, Tableau, TensorFlow, Swift, Power BI, PyTorch",10,6,11,Product,Product Manager,76,55,73,93,81,43,75,1
+C0357,Anjali Yadav,anjali.yadav356@email.com,BCA,8.12,8.7,"Django, Jenkins, Docker",3,7,4,HR,DevOps Engineer,31,60,96,35,84,81,63,0
+C0358,Anjali Mehta,anjali.mehta357@email.com,B.Tech,6.29,10.6,"Go, Swift, AWS, MongoDB, Machine Learning, JavaScript, FastAPI, Django, Docker, Spark, Kubernetes",11,0,9,HR,Product Manager,88,65,-5,76,98,89,68,1
+C0359,Varun Gupta,varun.gupta358@email.com,PhD,7.27,8.8,"Selenium, Rust, Deep Learning, React, Swift, C++, Power BI",7,4,12,Finance,Backend Developer,65,92,56,91,60,91,77,1
+C0360,Rajesh Yadav,rajesh.yadav359@email.com,PhD,8.56,3.4,"Swift, Jenkins, Computer Vision, Machine Learning, C++",5,5,2,Engineering,Software Engineer,41,96,67,13,98,66,54,0
+C0361,Shruti Patel,shruti.patel360@email.com,MCA,7.53,5.7,"Jenkins, Kotlin, Git, FastAPI, MongoDB, Computer Vision, C++, PyTorch",8,7,3,Data Science,Data Scientist,73,71,92,21,76,85,70,1
+C0362,Riya Chauhan,riya.chauhan361@email.com,MBA,6.47,5.7,"Flutter, Deep Learning, GraphQL, Jenkins, React, Data Analysis, MongoDB, Docker, Java, FastAPI, Node.js",11,5,6,Data Science,Product Manager,86,69,64,47,46,90,63,0
+C0363,Sneha Yadav,sneha.yadav362@email.com,M.Tech,5.66,10.7,"Python, Deep Learning, Rust, Node.js, TypeScript, Java, PyTorch, Computer Vision, MongoDB, Docker",10,5,8,Finance,Data Analyst,89,82,66,68,53,72,80,1
+C0364,Gaurav Patel,gaurav.patel363@email.com,BCA,8.98,10.4,"GraphQL, Swift, NLP, Kotlin, Kubernetes, Django, Java, Go, Selenium, Flutter, AWS, C++",12,2,10,HR,Data Scientist,93,56,21,85,90,59,74,1
+C0365,Simran Singh,simran.singh364@email.com,B.Sc CS,7.22,2.3,"React, Jenkins, TensorFlow, Tableau, FastAPI, Spark, Python, Git, Go, Django, SQL, Hadoop",12,3,12,DevOps,Software Engineer,99,68,37,100,96,74,70,1
+C0366,Pallavi Sharma,pallavi.sharma365@email.com,M.Tech,5.84,4.1,"Jenkins, C++, Swift",3,1,2,Finance,Data Scientist,27,86,9,19,54,51,40,0
+C0367,Pooja Yadav,pooja.yadav366@email.com,MBA,5.71,11.4,"C++, Data Analysis, Java",3,4,2,Finance,Data Scientist,20,69,53,16,65,56,53,0
+C0368,Sneha Mehta,sneha.mehta367@email.com,B.Sc CS,7.04,2.9,"Power BI, Selenium, Jenkins, Swift, Tableau, React",6,0,8,HR,Backend Developer,51,69,0,67,75,41,48,0
+C0369,Priya Joshi,priya.joshi368@email.com,B.Sc CS,8.91,6.6,"Computer Vision, AWS, Redis, GraphQL",4,1,9,Data Science,Backend Developer,41,70,18,70,54,63,54,0
+C0370,Harsh Pandey,harsh.pandey369@email.com,B.Sc CS,7.99,11.5,"Python, Hadoop, MongoDB",3,0,8,Product,Backend Developer,24,67,-5,63,98,83,54,0
+C0371,Varun Yadav,varun.yadav370@email.com,MBA,6.31,0.5,"Node.js, Redis, SQL, Kotlin, Rust, React, GraphQL, Git, Flutter, Django, AWS, PyTorch",12,5,6,Product,Backend Developer,97,75,70,53,93,85,72,0
+C0372,Suresh Mishra,suresh.mishra371@email.com,B.Sc CS,7.78,2.5,"AWS, Python, Tableau",3,0,3,Finance,Product Manager,19,65,5,25,89,85,40,0
+C0373,Harsh Singh,harsh.singh372@email.com,MBA,5.89,9.4,"Git, Java, Spark, Deep Learning",4,6,6,Engineering,Data Analyst,38,77,82,49,94,91,63,0
+C0374,Preeti Mehta,preeti.mehta373@email.com,M.Tech,7.46,5.3,"Rust, TensorFlow, SQL, Redis, Kotlin, Git, Deep Learning",7,7,1,Engineering,Backend Developer,58,80,91,7,90,85,63,0
+C0375,Anjali Gupta,anjali.gupta374@email.com,B.Sc CS,9.96,10.4,"Kubernetes, TensorFlow, Data Analysis, Node.js, MongoDB, Power BI, Flutter, JavaScript, Hadoop, AWS",10,4,11,Marketing,Frontend Developer,82,68,50,83,89,83,79,1
+C0376,Simran Chauhan,simran.chauhan375@email.com,MCA,7.48,0.0,"C++, TypeScript, GraphQL",3,1,9,HR,Backend Developer,27,80,18,74,78,88,41,0
+C0377,Sneha Joshi,sneha.joshi376@email.com,B.Sc CS,5.98,11.0,"Python, Kotlin, TensorFlow, Go, JavaScript, Spark, MongoDB, Jenkins",8,3,2,HR,Data Scientist,59,67,40,14,66,59,55,0
+C0378,Priya Saxena,priya.saxena377@email.com,B.Tech,7.19,5.2,"FastAPI, Computer Vision, Machine Learning, Tableau, Deep Learning, Kubernetes, GraphQL, Java",8,3,10,Marketing,Data Scientist,69,74,35,84,51,80,64,0
+C0379,Ananya Verma,ananya.verma378@email.com,MCA,7.8,11.0,"AWS, React, Spark, Redis",4,1,11,DevOps,Data Scientist,40,75,9,83,63,94,60,0
+C0380,Nikhil Shah,nikhil.shah379@email.com,PhD,5.96,10.4,"Python, Hadoop, Swift, Jenkins, Kotlin, PyTorch, Spark, Redis, TypeScript, React, Kubernetes, C++",12,7,6,Marketing,Backend Developer,91,97,94,52,51,40,78,1
+C0381,Rahul Srivastava,rahul.srivastava380@email.com,MCA,5.74,3.1,"Spark, Data Analysis, Computer Vision, AWS, Kotlin, Java, Hadoop, Node.js, Docker, MongoDB, PyTorch, FastAPI",12,4,9,Product,DevOps Engineer,100,77,56,69,64,78,70,1
+C0382,Aarav Srivastava,aarav.srivastava381@email.com,MBA,9.54,7.0,"Computer Vision, Selenium, React",3,5,4,Data Science,Data Analyst,32,69,63,37,95,44,56,0
+C0383,Sakshi Mishra,sakshi.mishra382@email.com,B.Sc CS,6.2,10.2,"Redis, GraphQL, Go, Kubernetes, React, NLP, Spark, Kotlin, Java, Computer Vision, Deep Learning, Python",12,3,10,Finance,Product Manager,98,65,41,78,92,89,78,1
+C0384,Riya Tiwari,riya.tiwari383@email.com,B.Tech,8.16,2.2,"Node.js, Rust, Java",3,2,8,Engineering,Backend Developer,22,70,25,62,93,63,40,0
+C0385,Siddharth Yadav,siddharth.yadav384@email.com,BCA,6.69,2.1,"Computer Vision, Data Analysis, TensorFlow, Java, SQL, GraphQL, AWS, React",8,2,11,Data Science,DevOps Engineer,59,57,27,84,58,59,52,0
+C0386,Preeti Kumar,preeti.kumar385@email.com,PhD,6.22,11.3,"Node.js, Deep Learning, Docker, AWS, Kotlin, Machine Learning, Hadoop, Django, TensorFlow",9,5,7,Finance,Frontend Developer,78,96,69,61,47,88,76,1
+C0387,Pooja Mishra,pooja.mishra386@email.com,MBA,8.76,3.0,"Selenium, Power BI, PyTorch, SQL, Tableau",5,2,7,DevOps,ML Engineer,37,71,29,61,68,71,51,0
+C0388,Suresh Agarwal,suresh.agarwal387@email.com,MCA,5.79,6.3,"Django, Kotlin, JavaScript, PyTorch, Deep Learning, Spark, Machine Learning, NLP, Tableau, TensorFlow",10,4,7,Marketing,Data Scientist,81,77,53,60,98,63,70,1
+C0389,Rahul Singh,rahul.singh388@email.com,B.Sc CS,6.59,3.5,"JavaScript, Hadoop, Selenium, Go, PyTorch, NLP",6,6,6,DevOps,Backend Developer,57,65,79,50,69,41,55,0
+C0390,Manish Singh,manish.singh389@email.com,B.Tech,6.51,4.3,"Selenium, SQL, Django, NLP, React, Tableau, JavaScript, Data Analysis, Java, Git, Machine Learning",11,3,6,Data Science,ML Engineer,93,69,44,47,97,89,67,1
+C0391,Harsh Joshi,harsh.joshi390@email.com,BCA,7.37,0.1,"Kotlin, Git, Python, Tableau, C++, FastAPI, Swift, Node.js",8,3,12,Finance,Data Analyst,71,59,37,94,78,77,60,0
+C0392,Sakshi Mishra,sakshi.mishra391@email.com,BCA,9.17,9.5,"GraphQL, PyTorch, Spark, Selenium, TypeScript, Django, Python, Data Analysis, Node.js",9,4,8,DevOps,Product Manager,71,58,47,69,66,54,66,1
+C0393,Harsh Yadav,harsh.yadav392@email.com,B.Tech,7.67,3.9,"AWS, Docker, Go",3,6,7,Product,Data Analyst,31,74,76,52,57,70,50,0
+C0394,Megha Singh,megha.singh393@email.com,MBA,6.46,2.1,"JavaScript, Power BI, Java, Data Analysis, TensorFlow",5,6,4,Engineering,DevOps Engineer,37,75,77,30,78,44,54,0
+C0395,Kritika Sharma,kritika.sharma394@email.com,PhD,7.37,2.1,"Kubernetes, Deep Learning, AWS, GraphQL, Computer Vision, Flutter, JavaScript, TensorFlow, Machine Learning",9,3,7,Marketing,Backend Developer,71,93,38,61,83,76,62,0
+C0396,Varun Chauhan,varun.chauhan395@email.com,B.Tech,6.73,3.3,"Node.js, Kotlin, Computer Vision, Go, Hadoop, MongoDB, Spark, Selenium, NLP, GraphQL",10,1,11,DevOps,ML Engineer,76,67,12,90,98,85,61,0
+C0397,Nikhil Shah,nikhil.shah396@email.com,B.Sc CS,9.96,2.2,"Swift, Data Analysis, Machine Learning, Kotlin, Rust, Java, Deep Learning, TypeScript, SQL, AWS",10,1,8,Engineering,Data Scientist,84,66,11,65,80,47,56,0
+C0398,Varun Mishra,varun.mishra397@email.com,M.Tech,9.28,4.9,"Selenium, JavaScript, Hadoop, Java, Jenkins, C++",6,6,12,Product,Data Scientist,57,84,78,97,70,42,63,0
+C0399,Rahul Mishra,rahul.mishra398@email.com,MCA,6.47,8.0,"Node.js, SQL, Computer Vision, Spark, Git, Selenium, GraphQL, AWS, Power BI, Jenkins",10,0,2,Data Science,Data Scientist,80,77,4,13,79,87,61,0
+C0400,Aarav Joshi,aarav.joshi399@email.com,BCA,7.99,1.8,"JavaScript, PyTorch, Spark, React, GraphQL, C++",6,6,8,Finance,Backend Developer,46,57,77,59,48,89,53,0
+C0401,Divya Agarwal,divya.agarwal400@email.com,M.Tech,6.1,10.9,"GraphQL, Java, Python",3,3,11,HR,ML Engineer,29,81,44,84,51,91,59,0
+C0402,Rohit Pandey,rohit.pandey401@email.com,PhD,8.27,6.2,"TensorFlow, PyTorch, Kotlin, TypeScript, React, Deep Learning, Machine Learning, Tableau",8,5,1,DevOps,Backend Developer,70,92,62,9,45,64,60,0
+C0403,Vikram Joshi,vikram.joshi402@email.com,BCA,6.62,7.8,"PyTorch, GraphQL, Redis, Power BI",4,2,2,HR,ML Engineer,30,55,25,20,85,84,48,0
+C0404,Nisha Kumar,nisha.kumar403@email.com,MBA,6.54,7.6,"Node.js, Go, Java, Spark, TensorFlow, FastAPI, C++, Flutter, Deep Learning, Hadoop",10,3,10,Marketing,Data Scientist,75,72,34,76,92,67,66,1
+C0405,Sneha Patel,sneha.patel404@email.com,BCA,8.93,4.5,"Swift, PyTorch, JavaScript, Computer Vision, Spark",5,2,6,HR,Frontend Developer,45,58,25,53,47,73,47,0
+C0406,Priya Shah,priya.shah405@email.com,BCA,5.03,10.2,"PyTorch, React, Computer Vision, NLP, Redis, TypeScript",6,5,8,Data Science,Software Engineer,55,60,62,69,100,71,64,0
+C0407,Pooja Mehta,pooja.mehta406@email.com,M.Tech,6.52,1.5,"PyTorch, Computer Vision, Selenium, SQL, Git, Flutter, NLP, Docker, Power BI, Hadoop, Machine Learning",11,6,10,Product,Data Analyst,90,89,75,78,81,68,71,1
+C0408,Ananya Agarwal,ananya.agarwal407@email.com,M.Tech,5.76,4.8,"TypeScript, Selenium, Git, Docker, GraphQL, Kotlin, Computer Vision, Python, Swift, TensorFlow",10,1,10,DevOps,Data Analyst,88,87,12,83,91,51,66,1
+C0409,Megha Chauhan,megha.chauhan408@email.com,B.Sc CS,9.85,3.4,"Node.js, Go, AWS, Tableau, Machine Learning, Git, Power BI, Python, TypeScript, FastAPI",10,7,7,Product,Data Scientist,86,69,92,57,68,64,71,1
+C0410,Nikhil Verma,nikhil.verma409@email.com,B.Tech,8.68,11.9,"Kubernetes, TensorFlow, TypeScript, FastAPI, Swift, Hadoop, Tableau, Flutter, Data Analysis, Power BI, Rust, Computer Vision",12,0,7,Finance,DevOps Engineer,100,71,5,57,60,70,65,1
+C0411,Priya Patel,priya.patel410@email.com,MCA,9.87,3.1,"FastAPI, Computer Vision, Kubernetes, Python, Deep Learning",5,6,12,DevOps,ML Engineer,37,80,79,100,50,73,58,0
+C0412,Shruti Joshi,shruti.joshi411@email.com,B.Sc CS,8.5,8.3,"Redis, GraphQL, SQL, Machine Learning, C++, MongoDB, Swift, Kotlin, Data Analysis",9,4,12,Engineering,Data Scientist,71,68,50,97,45,50,68,1
+C0413,Vikram Pandey,vikram.pandey412@email.com,MBA,6.0,6.3,"Kubernetes, Data Analysis, Flutter, Jenkins, Rust, Node.js, Machine Learning, Computer Vision, SQL",9,7,4,Product,Product Manager,70,71,95,29,92,51,67,1
+C0414,Gaurav Gupta,gaurav.gupta413@email.com,M.Tech,5.05,10.4,"SQL, Swift, Deep Learning, Django, JavaScript, Kubernetes, Python",7,7,11,HR,Software Engineer,58,81,93,84,62,88,72,1
+C0415,Arjun Mehta,arjun.mehta414@email.com,B.Tech,6.89,6.3,"Jenkins, Django, Power BI, Tableau, Swift, Kubernetes, Redis, PyTorch, Hadoop, Data Analysis, Go, GraphQL",12,3,11,Finance,Data Scientist,100,71,39,89,48,62,70,1
+C0416,Aarav Chauhan,aarav.chauhan415@email.com,MCA,8.29,10.4,"Deep Learning, Jenkins, Django",3,5,10,HR,Backend Developer,26,72,67,85,75,72,65,0
+C0417,Aarav Mishra,aarav.mishra416@email.com,BCA,8.67,0.2,"Spark, NLP, Power BI, Kotlin, Flutter, Redis, Selenium, JavaScript",8,6,11,HR,ML Engineer,70,55,80,84,63,78,58,0
+C0418,Kritika Srivastava,kritika.srivastava417@email.com,MCA,8.5,0.4,"Hadoop, Kubernetes, Spark, Deep Learning, Computer Vision, Go, Django",7,3,3,Data Science,DevOps Engineer,58,71,37,29,51,67,42,0
+C0419,Vivek Joshi,vivek.joshi418@email.com,BCA,8.27,2.6,"Deep Learning, AWS, Power BI, SQL, Kotlin, Rust, Kubernetes, TypeScript, Git, MongoDB",10,5,12,Finance,Backend Developer,77,65,66,97,95,75,70,1
+C0420,Karan Joshi,karan.joshi419@email.com,B.Tech,6.55,1.4,"Go, TensorFlow, Deep Learning, Flutter",4,5,10,Finance,Product Manager,31,66,66,75,82,74,50,0
+C0421,Shruti Mishra,shruti.mishra420@email.com,PhD,7.5,9.3,"Jenkins, NLP, Machine Learning, Kotlin, Python",5,5,5,Data Science,Software Engineer,49,97,62,38,74,49,65,1
+C0422,Suresh Yadav,suresh.yadav421@email.com,MBA,8.5,6.0,"Tableau, PyTorch, Power BI, MongoDB, Rust, TensorFlow, Java",7,2,12,Finance,Data Analyst,61,68,24,94,48,99,56,0
+C0423,Anjali Yadav,anjali.yadav422@email.com,MBA,7.64,11.8,"Kotlin, Go, TypeScript",3,5,7,HR,Product Manager,34,69,66,52,63,58,59,0
+C0424,Arjun Patel,arjun.patel423@email.com,PhD,6.05,3.9,"Redis, Hadoop, Kubernetes",3,7,5,HR,Software Engineer,23,96,93,37,96,87,60,0
+C0425,Preeti Gupta,preeti.gupta424@email.com,PhD,6.23,8.1,"TypeScript, Kubernetes, React, Machine Learning, Data Analysis, Computer Vision, SQL, Java, Selenium",9,6,11,DevOps,Frontend Developer,77,89,75,89,52,55,76,1
+C0426,Neha Tiwari,neha.tiwari425@email.com,PhD,5.61,9.3,"Hadoop, Swift, Django, Spark",4,0,2,Data Science,Software Engineer,38,97,-4,12,86,82,57,0
+C0427,Tarun Joshi,tarun.joshi426@email.com,B.Tech,5.92,8.3,"Swift, Tableau, TypeScript, Redis, AWS",5,5,12,DevOps,Data Analyst,38,74,61,99,97,84,63,0
+C0428,Vikram Srivastava,vikram.srivastava427@email.com,B.Sc CS,7.88,10.0,"PyTorch, Deep Learning, Data Analysis, Python",4,5,1,Marketing,Frontend Developer,41,70,61,5,86,50,54,0
+C0429,Rohit Singh,rohit.singh428@email.com,B.Sc CS,8.48,11.8,"Git, Kubernetes, TypeScript, Python, Deep Learning, Docker, Java, FastAPI",8,7,10,Marketing,Backend Developer,68,64,88,82,78,98,79,1
+C0430,Arjun Verma,arjun.verma429@email.com,M.Tech,6.91,2.8,"PyTorch, AWS, Git, Rust, Jenkins, Node.js, Flutter",7,1,5,Engineering,Frontend Developer,64,82,16,39,55,65,53,0
+C0431,Shruti Patel,shruti.patel430@email.com,B.Tech,6.24,6.4,"TensorFlow, Flutter, Selenium, Kubernetes, PyTorch, GraphQL, Node.js",7,6,1,Engineering,Product Manager,61,75,79,12,62,47,63,0
+C0432,Vikram Mishra,vikram.mishra431@email.com,BCA,8.64,7.7,"Docker, NLP, Django, Python, React, TensorFlow, Deep Learning",7,1,3,Engineering,DevOps Engineer,63,60,9,27,64,77,54,0
+C0433,Aditya Joshi,aditya.joshi432@email.com,B.Tech,6.89,7.3,"Swift, Data Analysis, Rust, Kotlin, Computer Vision, MongoDB, Node.js, AWS",8,2,3,HR,DevOps Engineer,59,67,31,21,92,57,51,0
+C0434,Divya Pandey,divya.pandey433@email.com,M.Tech,7.03,8.5,"Hadoop, Selenium, MongoDB, Django, Tableau, PyTorch, FastAPI, Rust",8,4,2,HR,Data Scientist,66,87,57,15,65,94,62,0
+C0435,Vikram Shah,vikram.shah434@email.com,M.Tech,7.4,11.3,"SQL, MongoDB, Power BI",3,6,9,HR,Data Scientist,19,89,83,69,77,83,71,0
+C0436,Anjali Sharma,anjali.sharma435@email.com,PhD,7.57,7.4,"Git, Rust, Computer Vision, JavaScript, Redis, NLP, SQL, Go, Swift",9,2,6,DevOps,ML Engineer,74,87,22,45,48,67,63,0
+C0437,Preeti Gupta,preeti.gupta436@email.com,MBA,9.13,4.1,"Deep Learning, MongoDB, Redis, Tableau, Docker, AWS, Machine Learning, Python, Flutter, C++, Jenkins",11,3,11,Marketing,Data Analyst,95,70,38,91,47,99,70,1
+C0438,Sneha Agarwal,sneha.agarwal437@email.com,MCA,7.46,0.1,"Rust, Machine Learning, Python, Git, Spark, Flutter, SQL",7,5,2,Data Science,Product Manager,63,75,60,17,50,73,54,0
+C0439,Kavya Saxena,kavya.saxena438@email.com,PhD,9.2,0.1,"NLP, Tableau, Kotlin, Flutter, Docker, Data Analysis, PyTorch",7,4,8,HR,Product Manager,56,97,48,69,55,48,56,0
+C0440,Aarav Agarwal,aarav.agarwal439@email.com,MBA,8.33,10.6,"TensorFlow, MongoDB, JavaScript, AWS",4,6,1,Engineering,Product Manager,39,70,78,5,75,82,60,0
+C0441,Pallavi Saxena,pallavi.saxena440@email.com,MBA,8.84,9.6,"Kotlin, Selenium, Swift, AWS, React, Tableau, Git, Python",8,2,9,DevOps,Software Engineer,63,69,26,67,60,43,60,0
+C0442,Shruti Saxena,shruti.saxena441@email.com,MCA,8.51,3.5,"Computer Vision, Docker, Selenium, Data Analysis, Deep Learning, AWS, Swift, React, Hadoop",9,6,8,Data Science,ML Engineer,74,71,76,60,77,79,63,0
+C0443,Karan Gupta,karan.gupta442@email.com,B.Tech,8.5,1.6,"Docker, TypeScript, Java, TensorFlow, JavaScript, Jenkins",6,6,9,DevOps,Data Analyst,44,69,79,71,59,54,55,0
+C0444,Sneha Srivastava,sneha.srivastava443@email.com,B.Tech,5.0,5.1,"Django, Flutter, Rust, GraphQL",4,5,3,Data Science,Frontend Developer,34,69,60,19,87,87,53,0
+C0445,Tarun Joshi,tarun.joshi444@email.com,B.Tech,7.76,10.9,"FastAPI, Power BI, Flutter, Go, Redis",5,1,1,Product,DevOps Engineer,38,71,18,13,100,48,54,0
+C0446,Kritika Agarwal,kritika.agarwal445@email.com,BCA,8.1,2.9,"Swift, SQL, Machine Learning, AWS, C++, Flutter, Redis, React, Java, MongoDB, Tableau, Selenium",12,7,2,Finance,Backend Developer,97,58,87,19,64,86,67,1
+C0447,Harsh Patel,harsh.patel446@email.com,M.Tech,6.45,0.5,"FastAPI, Rust, Flutter, Spark, C++, Jenkins, React, PyTorch, JavaScript, Computer Vision, TypeScript",11,2,5,HR,Product Manager,83,86,30,37,81,43,56,0
+C0448,Pallavi Srivastava,pallavi.srivastava447@email.com,M.Tech,6.29,11.7,"Swift, Git, Kotlin, Django, Machine Learning, SQL, Python, Hadoop, MongoDB, Tableau, GraphQL",11,7,12,HR,Frontend Developer,83,87,94,99,99,54,88,1
+C0449,Simran Gupta,simran.gupta448@email.com,B.Tech,7.67,2.1,"MongoDB, JavaScript, Docker, Django, Hadoop, Node.js",6,0,4,HR,DevOps Engineer,51,73,5,30,45,81,43,0
+C0450,Suresh Singh,suresh.singh449@email.com,B.Sc CS,9.86,11.4,"GraphQL, MongoDB, C++, React, Python",5,3,3,HR,Product Manager,46,64,38,23,79,82,54,0
+C0451,Manish Mehta,manish.mehta450@email.com,M.Tech,7.48,9.8,"PyTorch, Kotlin, Docker, Spark, Deep Learning, Flutter, Hadoop",7,5,8,Data Science,Data Analyst,64,85,62,60,74,51,68,1
+C0452,Neha Yadav,neha.yadav451@email.com,M.Tech,6.89,0.3,"TensorFlow, Node.js, Docker, Jenkins, PyTorch, Deep Learning, NLP, C++, Git",9,2,10,Finance,Software Engineer,70,82,21,76,46,47,47,0
+C0453,Rahul Shah,rahul.shah452@email.com,BCA,5.77,9.2,"Python, Git, Machine Learning, Go, TypeScript, Rust, JavaScript, Selenium, Node.js, Computer Vision, Swift, MongoDB",12,2,6,HR,Data Scientist,100,57,25,50,48,74,64,0
+C0454,Priya Verma,priya.verma453@email.com,BCA,9.42,1.2,"GraphQL, Docker, Python, NLP, Selenium, Deep Learning, PyTorch, TensorFlow, Node.js, Data Analysis, C++",11,3,7,DevOps,ML Engineer,92,56,44,61,97,97,59,0
+C0455,Kavya Shah,kavya.shah454@email.com,BCA,6.67,1.2,"Go, Deep Learning, Flutter, SQL",4,2,7,Data Science,Frontend Developer,28,60,23,59,56,83,41,0
+C0456,Aditya Agarwal,aditya.agarwal455@email.com,BCA,9.07,10.5,"FastAPI, Node.js, Python, Docker, Swift, C++, Jenkins, Kubernetes",8,6,12,HR,Frontend Developer,63,62,80,98,52,76,73,1
+C0457,Pooja Singh,pooja.singh456@email.com,M.Tech,7.09,3.9,"Rust, C++, Power BI, TypeScript, Computer Vision, Git, PyTorch, Redis, Kotlin",9,2,4,DevOps,Backend Developer,77,82,31,33,76,74,63,0
+C0458,Vivek Singh,vivek.singh457@email.com,MCA,6.47,7.0,"NLP, SQL, Computer Vision, Flutter, Python, Machine Learning, TypeScript, Tableau, Data Analysis, Django, Selenium, Node.js",12,0,6,DevOps,Backend Developer,94,78,0,45,54,93,66,1
+C0459,Riya Shah,riya.shah458@email.com,M.Tech,5.15,0.7,"Swift, Java, TypeScript, Flutter, React",5,1,10,Data Science,Data Scientist,38,81,15,77,68,49,42,0
+C0460,Aarav Pandey,aarav.pandey459@email.com,M.Tech,5.3,1.8,"Jenkins, Redis, Tableau, GraphQL, Go",5,0,2,Marketing,ML Engineer,49,87,-1,13,86,42,41,0
+C0461,Aarav Tiwari,aarav.tiwari460@email.com,MBA,6.09,10.0,"FastAPI, Selenium, Redis, NLP, PyTorch, Hadoop, SQL, AWS, JavaScript, Git, TensorFlow",11,3,10,Marketing,Data Scientist,87,74,40,75,56,92,76,1
+C0462,Sakshi Saxena,sakshi.saxena461@email.com,MBA,5.81,3.8,"Kubernetes, React, Flutter, TypeScript, Machine Learning, AWS, Jenkins, Spark, JavaScript",9,5,4,Marketing,Software Engineer,78,73,60,31,51,44,57,0
+C0463,Megha Mehta,megha.mehta462@email.com,MBA,8.76,6.6,"Django, SQL, JavaScript, Tableau, Java, Power BI",6,1,1,Product,Product Manager,53,67,12,8,70,72,46,0
+C0464,Rajesh Patel,rajesh.patel463@email.com,B.Tech,7.32,8.4,"Selenium, Machine Learning, Git, Docker, Python, MongoDB, Kotlin, TensorFlow, Computer Vision",9,4,3,Data Science,ML Engineer,68,70,49,29,85,45,61,0
+C0465,Amit Srivastava,amit.srivastava464@email.com,MBA,5.37,6.2,"Go, Spark, AWS, Git, Docker, Data Analysis, Redis, TypeScript, PyTorch, Java, Rust",11,3,10,Engineering,Software Engineer,95,76,37,84,54,76,72,1
+C0466,Pooja Yadav,pooja.yadav465@email.com,PhD,8.55,6.6,"Machine Learning, Hadoop, C++, Kubernetes, Jenkins, Docker, SQL, JavaScript, AWS, MongoDB",10,5,2,Product,Data Analyst,86,88,61,13,74,56,70,1
+C0467,Rahul Gupta,rahul.gupta466@email.com,MCA,7.53,11.7,"MongoDB, Kotlin, GraphQL, AWS, NLP, Data Analysis, FastAPI, TypeScript",8,5,11,Marketing,Software Engineer,69,70,61,89,61,96,70,1
+C0468,Divya Sharma,divya.sharma467@email.com,B.Tech,9.5,1.9,"Kubernetes, Kotlin, Node.js, NLP, TensorFlow, TypeScript, Power BI, Go, JavaScript",9,7,11,Data Science,Data Scientist,78,69,93,91,74,46,65,1
+C0469,Anjali Pandey,anjali.pandey468@email.com,BCA,6.6,2.4,"Go, Power BI, PyTorch, Tableau, React, AWS, NLP, Java",8,7,11,Engineering,DevOps Engineer,63,56,88,86,47,78,62,0
+C0470,Shruti Saxena,shruti.saxena469@email.com,M.Tech,8.35,2.6,"Django, FastAPI, Data Analysis, SQL, Node.js, JavaScript, AWS, TensorFlow, Hadoop",9,7,9,Engineering,Product Manager,76,80,92,70,61,51,63,0
+C0471,Nisha Yadav,nisha.yadav470@email.com,BCA,5.72,2.0,"Tableau, Kubernetes, TypeScript, Rust, Hadoop, Power BI, MongoDB, TensorFlow, GraphQL, Python",10,1,10,Engineering,ML Engineer,81,61,18,84,87,92,60,0
+C0472,Sakshi Patel,sakshi.patel471@email.com,BCA,7.1,6.0,"FastAPI, Jenkins, Python, Spark, Tableau, GraphQL, TypeScript, Node.js, C++",9,1,4,Marketing,Product Manager,81,56,8,30,79,89,53,0
+C0473,Riya Agarwal,riya.agarwal472@email.com,M.Tech,9.14,2.5,"Python, Flutter, Jenkins, Java, Docker, Spark, Tableau, FastAPI, GraphQL, React, Rust, Computer Vision",12,6,6,Engineering,ML Engineer,100,90,79,48,72,73,74,1
+C0474,Sakshi Pandey,sakshi.pandey473@email.com,B.Sc CS,8.08,4.5,"Git, TypeScript, Swift, MongoDB, Machine Learning",5,1,11,HR,Data Scientist,37,69,9,83,71,46,50,0
+C0475,Gaurav Srivastava,gaurav.srivastava474@email.com,B.Tech,7.06,7.0,"GraphQL, PyTorch, NLP, Hadoop, Django, TensorFlow, React",7,7,6,Engineering,DevOps Engineer,57,75,87,50,97,81,71,1
+C0476,Karan Srivastava,karan.srivastava475@email.com,MBA,6.59,3.4,"GraphQL, Computer Vision, Python, Git, Java, Selenium, Hadoop",7,5,12,Data Science,Product Manager,55,71,68,100,55,76,63,0
+C0477,Siddharth Tiwari,siddharth.tiwari476@email.com,PhD,8.16,9.9,"AWS, Swift, Data Analysis, Kotlin, Spark, Kubernetes, FastAPI, SQL, PyTorch",9,1,9,Finance,ML Engineer,74,96,10,68,95,65,70,1
+C0478,Suresh Mehta,suresh.mehta477@email.com,B.Tech,9.92,1.1,"Docker, Java, Git",3,6,12,Data Science,Backend Developer,21,71,73,93,85,80,54,0
+C0479,Karan Yadav,karan.yadav478@email.com,PhD,5.54,2.3,"FastAPI, React, Django, SQL, Hadoop, Node.js, C++, Python, Spark",9,1,10,Engineering,Data Scientist,70,90,15,76,63,56,55,0
+C0480,Pallavi Agarwal,pallavi.agarwal479@email.com,M.Tech,6.88,11.0,"Power BI, Java, GraphQL, Node.js",4,1,11,Finance,ML Engineer,42,86,11,89,65,80,64,0
+C0481,Neha Yadav,neha.yadav480@email.com,M.Tech,7.68,0.1,"JavaScript, Deep Learning, Go, Rust, Computer Vision, Redis, Hadoop, Django, Python, SQL, FastAPI, Flutter",12,1,10,Data Science,DevOps Engineer,99,90,11,75,78,72,61,0
+C0482,Kavya Mehta,kavya.mehta481@email.com,M.Tech,7.34,0.4,"AWS, Django, Tableau, TensorFlow",4,5,11,Marketing,Product Manager,29,83,68,87,96,71,58,0
+C0483,Siddharth Joshi,siddharth.joshi482@email.com,MBA,8.04,2.1,"Machine Learning, Redis, Kubernetes, PyTorch, Tableau, Flutter, Computer Vision, Power BI, NLP",9,4,10,Product,Data Scientist,80,71,52,76,72,52,62,0
+C0484,Gaurav Kumar,gaurav.kumar483@email.com,B.Sc CS,6.86,10.7,"GraphQL, MongoDB, Rust, Kotlin, Python, React, SQL, Power BI, Kubernetes, PyTorch, Spark, Data Analysis",12,1,11,Engineering,DevOps Engineer,98,64,11,88,94,60,69,1
+C0485,Aarav Mishra,aarav.mishra484@email.com,B.Sc CS,7.87,2.6,"Node.js, Swift, MongoDB, PyTorch, FastAPI, Machine Learning",6,4,11,Product,DevOps Engineer,46,65,56,84,86,66,58,0
+C0486,Siddharth Mehta,siddharth.mehta485@email.com,MCA,7.96,0.6,"Django, GraphQL, Deep Learning",3,7,10,Product,Software Engineer,22,77,88,80,60,76,48,0
+C0487,Aarav Chauhan,aarav.chauhan486@email.com,PhD,9.15,3.4,"Git, Jenkins, JavaScript",3,0,8,Product,DevOps Engineer,29,93,-4,60,71,86,46,0
+C0488,Rajesh Tiwari,rajesh.tiwari487@email.com,PhD,5.69,1.0,"React, Kotlin, Redis, Hadoop, Computer Vision, TypeScript, C++, Git, GraphQL, Data Analysis",10,0,1,Data Science,ML Engineer,78,92,-2,3,65,95,52,0
+C0489,Ananya Mehta,ananya.mehta488@email.com,PhD,7.3,8.7,"Python, React, FastAPI, JavaScript, Jenkins, Java, Docker, Power BI, AWS, Kubernetes, Rust",11,4,3,Finance,Product Manager,95,92,49,28,53,60,69,1
+C0490,Gaurav Gupta,gaurav.gupta489@email.com,M.Tech,8.24,6.3,"Power BI, Django, C++, Tableau, Deep Learning, JavaScript, AWS, Swift, Docker, Rust",10,5,4,Engineering,Data Analyst,77,89,68,37,99,53,68,1
+C0491,Sneha Mehta,sneha.mehta490@email.com,M.Tech,9.24,0.2,"TensorFlow, Power BI, Machine Learning, Go, Selenium, GraphQL, MongoDB, Swift, FastAPI",9,4,11,Data Science,DevOps Engineer,77,87,54,85,51,98,61,0
+C0492,Vivek Chauhan,vivek.chauhan491@email.com,B.Sc CS,6.2,10.4,"TensorFlow, Node.js, Django, TypeScript, SQL, Go, Docker, Power BI, MongoDB",9,2,2,Engineering,Data Analyst,70,63,28,12,74,51,57,0
+C0493,Kritika Chauhan,kritika.chauhan492@email.com,B.Tech,7.21,4.2,"Rust, TypeScript, PyTorch, Docker",4,6,6,HR,Product Manager,39,73,81,43,68,46,50,0
+C0494,Shruti Mehta,shruti.mehta493@email.com,MCA,5.33,3.5,"Django, Jenkins, Power BI, TypeScript, React, Go, Java, C++, Deep Learning, Tableau, GraphQL, Kotlin",12,0,5,Marketing,Product Manager,92,72,4,38,51,57,52,0
+C0495,Anjali Tiwari,anjali.tiwari494@email.com,MBA,7.38,1.2,"PyTorch, Kubernetes, Git, Rust, C++, Docker, Power BI, Redis, Hadoop, Flutter",10,1,9,Data Science,DevOps Engineer,75,71,10,76,64,94,53,0
+C0496,Vikram Kumar,vikram.kumar495@email.com,MCA,8.4,2.2,"Tableau, TypeScript, Go",3,2,2,DevOps,Software Engineer,19,72,25,13,99,40,39,0
+C0497,Pallavi Shah,pallavi.shah496@email.com,B.Tech,8.32,5.7,"MongoDB, NLP, Selenium, Kubernetes, Swift, Node.js, Tableau, React, TypeScript, Docker, Flutter, Power BI",12,7,9,Engineering,DevOps Engineer,100,65,91,71,61,63,77,1
+C0498,Megha Mishra,megha.mishra497@email.com,PhD,6.8,10.7,"Tableau, Deep Learning, Django, Java, Node.js, PyTorch, TypeScript, Jenkins, Go, Git, Data Analysis, Computer Vision",12,3,12,DevOps,Data Scientist,91,97,43,97,92,45,81,1
+C0499,Swati Chauhan,swati.chauhan498@email.com,B.Sc CS,9.17,11.8,"Rust, Go, Kotlin, GraphQL, Tableau, AWS, Docker",7,0,9,Marketing,DevOps Engineer,57,62,4,72,52,67,60,0
+C0500,Aditya Gupta,aditya.gupta499@email.com,MCA,5.08,11.6,"Hadoop, Docker, Jenkins, MongoDB, Kubernetes",5,7,2,Finance,Data Scientist,44,80,90,15,47,53,63,0
