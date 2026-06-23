@@ -1,5 +1,5 @@
 # 🤖 NexusHire AI – AI Hiring Assistant
-### Final Year B.Tech Major Project | Production-Ready ML Platform
+### Training Project | Production-Ready ML Platform
 
 ---
 
